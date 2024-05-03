@@ -13,8 +13,14 @@ For interest or inquiries about ForeSITE, please reach out!
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Contact PI"
+  link="Matthew.Samore@hsc.utah.edu"
+%}
+{%
+  include button.html
+  type="email"
+  text="Program Manager"
+  link="kristina.stratford@hsc.utah.edu"
 %}
 
 {% include section.html %}
@@ -59,4 +65,3 @@ While ForeSITE focuses on developing and implementing tools across the intermoun
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
