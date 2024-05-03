@@ -12,7 +12,7 @@ ForeSITE is comprised of teams from academic and public health partners
 ## {% include icon.html icon="fa-solid fa-users" %}Leadership Team
 
 {% include section.html %}
-
+{% include list.html data="members" component="portrait" filters="role: cpi" %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}University of Utah Team
@@ -31,12 +31,20 @@ ForeSITE is comprised of teams from academic and public health partners
 ## {% include icon.html icon="fa-solid fa-users" %}STEDI Team
 
 {% include section.html %}
+STEDI: Sociotechnical System Evaluation, Design, And Implementation. STEDI
+activities will be integrated throughout the proposed CFA program to ensure that: 1)
+end-user needs are met, 2) there is successful integration and implementation in real-
+world settings, and 3) lessons learned from implementation are systematically
+documented
 
 {% include list.html data="members" component="portrait" filters="role: stedi" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}WILDE Team
 
 {% include section.html %}
+
+WILDE Experts: Wastewater, Infectious disease, Landscape & Disease ecologists, Epidemiologists (WILDE). The
+WILDE experts will serve as consultants to provide expertise on individual topics
 
 {% include list.html data="members" component="portrait" filters="role: wilde" %}
 
@@ -59,8 +67,6 @@ ForeSITE is comprised of teams from academic and public health partners
 {% include list.html data="members" component="portrait" filters="role: vis" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}State Public Health Partners
-
-
 
 
 
@@ -100,13 +106,13 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: slco" %}}
+{% include list.html data="members" component="portrait" filters="role: slco" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}Spokane Regional Health District
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: srhd" %}}
+{% include list.html data="members" component="portrait" filters="role: srhd" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}Tooele Health Department
 
@@ -124,7 +130,7 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: wchd" %}}
+{% include list.html data="members" component="portrait" filters="role: wchd" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Healthcare Partners
 
@@ -132,25 +138,25 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: ihc" %}}
+{% include list.html data="members" component="portrait" filters="role: ihc" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}Pullman Regional Hospital
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: prh" %}}
+{% include list.html data="members" component="portrait" filters="role: prh" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}UHealth
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: uh" %}}
+{% include list.html data="members" component="portrait" filters="role: uh" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}VA 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: va" %}}
+{% include list.html data="members" component="portrait" filters="role: va" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
