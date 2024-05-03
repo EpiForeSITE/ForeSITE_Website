@@ -96,68 +96,6 @@ WILDE experts will serve as consultants to provide expertise on individual topic
 
 # {% include icon.html icon="fa-solid fa-users" %}Local Public Health Partners
 
-## {% include icon.html icon="fa-solid fa-users" %}Davis County Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: dchd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Salt Lake County Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: slco" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Spokane Regional Health District
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: srhd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Tooele Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: tohd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Weber-Morgan Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: wmhd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Whitman County Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: wchd" %}
-
-# {% include icon.html icon="fa-solid fa-users" %}Healthcare Partners
-
-## {% include icon.html icon="fa-solid fa-users" %}Intermountain Health
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: ihc" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Pullman Regional Hospital
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: prh" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}UHealth
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: uh" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}VA 
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: va" %}
-
 {% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
