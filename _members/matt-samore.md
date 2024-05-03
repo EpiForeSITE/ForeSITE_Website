@@ -1,7 +1,7 @@
 ---
 name: Matthew Samore
 image: images/photo.jpg
-role: cpi
+role: con
 aliases:
   - MH Samore
 links:
