@@ -30,7 +30,6 @@ For interest or inquiries about ForeSITE, please reach out!
 {%
   include figure.html
   image="images/Keegan_CDC.png"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
@@ -40,7 +39,6 @@ For interest or inquiries about ForeSITE, please reach out!
 {%
   include figure.html
   image="images/CFAVisit.jpeg"
-  caption="CFA Site Visit"
 %}
 
 {% endcapture %}
@@ -50,7 +48,6 @@ For interest or inquiries about ForeSITE, please reach out!
 {%
   include figure.html
   image="images/Stratford_CFA.png"
-  caption="ForeSITE Kickoff"
 %}
 
 {% endcapture %}
