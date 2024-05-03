@@ -1,13 +1,15 @@
 ---
-name: Matthew Samore
+name: Jane Smith
 image: images/photo.jpg
 role: pi
 aliases:
-  - M Samore
+  - J smith
+  - J. Smith
 links:
-  orcid: 0000-0001-8376-9752
+  home-page: https://janesmith.com
+  orcid: 0000-0001-8713-9213
 ---
-
+ 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
 Elit at imperdiet dui accumsan.
