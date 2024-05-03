@@ -112,7 +112,7 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: tohd" %
+{% include list.html data="members" component="portrait" filters="role: tohd" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}Weber-Morgan Health Department
 
