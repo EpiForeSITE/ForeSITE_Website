@@ -114,18 +114,63 @@ WILDE experts will serve as consultants to provide expertise on individual topic
 
 {% include list.html data="members" component="portrait" filters="role: srhd" %}
 
+## {% include icon.html icon="fa-solid fa-users" %}Tooele Health Department
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: tohd" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}Weber-Morgan Health Department
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: wmhd" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}Whitman County Health Department
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: wchd" %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Healthcare Partners
+
+## {% include icon.html icon="fa-solid fa-users" %}Intermountain Health
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: ihc" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}Pullman Regional Hospital
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: prh" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}UHealth
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: uh" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}VA 
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: va" %}
+
+
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ForeSITE aims to integrate forecasting and analytics with public health
+departments and healthcare organizations regionally in the Intermountain West and nationally in
+the Department of Veterans Affairs (VA).
 
 {% include section.html %}
 
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/Collingwood_CFA.png" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
