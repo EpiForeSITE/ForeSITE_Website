@@ -1,23 +1,50 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1101/2023.11.13.23298464
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  image: images/Efm.png
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1001/jamanetworkopen.2021.40906
+  type: paper
+  image: images/Keegan_VE.png
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: pmid:34492025
+  image: images/Wimmer_Model.png
+
+- id: pmid:33900179
+  image: images/ScenaroModelingUtah.png
+  
+- id: pmid:33824358
+  image: images/ScenarioModel.png
+
+- id: pmid:34506478
+  image: images/LTCF_NPI.png
+
+- id: doi:10.1101/2023.05.10.23289580
+  type: paper
+  image: images/mpox.png
+
+- id: doi:10.1101/2020.06.12.20129551
+  type: paper
+  image: images/LTCF_PAC.png
+
+- id: doi:10.1101/2020.04.08.20058842 
+  type: paper
+  image: images/Jail.png
+
+- id: doi:10.3390/ijerph18168260
+  type: paper
+  image: images/sporting_sir.png
+
+- id: doi:10.1001/jamanetworkopen.2022.40142
+  type: paper
+  
+- id: doi:10.1101/2024.01.10.24301116
+  type: paper
+  image: images/college_transmission.png
+
+
+
+
+
+  
+
+
