@@ -1102,6 +1102,7 @@
   link: https://doi.org/gtszw2
   type: paper
   group: featured
+  image: images/JAMA-network.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.01.10.24301116
