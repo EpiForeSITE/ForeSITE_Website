@@ -11,14 +11,7 @@ Below are publications from researchers on the ForeSITE team that exemplify the 
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Assessing the Impact of Mask Mandates on SARS-CoV-2 Transmission: A Case Study of Utah" style="rich" %}
-
-{% include section.html %}
-
-
-## All
+## Select Publications
 
 {% include search-box.html %}
 
