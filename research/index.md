@@ -18,3 +18,10 @@ Below are publications from researchers on the ForeSITE team that exemplify the 
 {% include section.html %}
 
 
+## All
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" %}
