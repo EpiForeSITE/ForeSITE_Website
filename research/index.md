@@ -11,6 +11,16 @@ Below are publications from researchers on the ForeSITE team that exemplify the 
 
 {% include section.html %}
 
+## Highlights
+
+{%
+  include list.html
+  data="citations"
+  component="citation"
+  filters="group: featured"
+  style="rich"
+%}
+
 ## Select Publications
 
 {% include search-box.html %}
