@@ -2,8 +2,6 @@
 name: Eric Lofgren
 image: images/photo.jpg
 role: pi
-aliases:
-  - E Lofgren
 links:
   orcid: 0000-0003-2052-7240
 ---
