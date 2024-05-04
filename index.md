@@ -52,7 +52,7 @@ Our team works on a multitude of different pathogen systems and a variety of met
 
 {%
   include feature.html
-  image="images/Efm.png"
+  image="images/Efm_copy.png"
   link="research"
   title="ForeSITE Publications"
   flip=true
