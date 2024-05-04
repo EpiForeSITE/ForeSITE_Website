@@ -14,6 +14,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  group: featured
   image: images/Efm.png
 - id: doi:10.1093/aje/kwac201
   title: Are <i>Staphylococcus aureus</i> Carrier Types Evidence of Population Heterogeneity?
@@ -442,6 +443,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  group: featured
   image: images/Keegan_VE.png
 - id: doi:10.1001/jamanetworkopen.2021.0971
   title: Association Between Contact Precautions and Transmission of Methicillin-Resistant
@@ -742,6 +744,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  group: featured
   image: images/LTCF_PAC.png
 - id: doi:10.1101/2020.05.08.20095703
   title: The real time effective reproductive number for COVID-19 in the United States
@@ -956,6 +959,8 @@
   publisher: PloS one
   date: '2021-09-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34492025
+  type: paper
+  group: featured
   image: images/Wimmer_Model.png
   plugin: sources.py
   file: sources.yaml
@@ -984,6 +989,8 @@
   publisher: Emerging infectious diseases
   date: '2021-05-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33900179
+  type: paper
+  group: featured
   image: images/ScenaroModelingUtah.png
   plugin: sources.py
   file: sources.yaml
@@ -1006,6 +1013,8 @@
   publisher: Scientific reports
   date: '2021-04-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33824358
+  type: paper
+  group: featured
   image: images/ScenarioModel.png
   plugin: sources.py
   file: sources.yaml
@@ -1019,6 +1028,8 @@
   publisher: PLoS computational biology
   date: '2021-09-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34506478
+  type: paper
+  group: featured
   image: images/LTCF_NPI.png
   plugin: sources.py
   file: sources.yaml
@@ -1041,6 +1052,7 @@
   date: '2023-05-14'
   link: https://doi.org/gtszww
   type: paper
+  group: featured
   image: images/mpox.png
   plugin: sources.py
   file: sources.yaml
@@ -1058,6 +1070,7 @@
   date: '2020-04-14'
   link: https://doi.org/gtszwx
   type: paper
+  group: featured
   image: images/Jail.png
   plugin: sources.py
   file: sources.yaml
@@ -1075,6 +1088,7 @@
   date: '2021-08-04'
   link: https://doi.org/gtszwz
   type: paper
+  group: featured
   image: images/sporting_sir.png
   plugin: sources.py
   file: sources.yaml
@@ -1087,6 +1101,7 @@
   date: '2022-11-18'
   link: https://doi.org/gtszw2
   type: paper
+  group: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.01.10.24301116
@@ -1101,6 +1116,7 @@
   date: '2024-01-11'
   link: https://doi.org/gtszw3
   type: paper
+  group: featured
   image: images/college_transmission.png
   plugin: sources.py
   file: sources.yaml
