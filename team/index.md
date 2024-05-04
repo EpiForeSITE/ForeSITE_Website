@@ -159,7 +159,7 @@ WILDE experts will serve as consultants to provide expertise on individual topic
 {% include list.html data="members" component="portrait" filters="role: va" %}
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 ForeSITE aims to integrate forecasting and analytics with public health
 departments and healthcare organizations regionally in the Intermountain West and nationally in
@@ -169,7 +169,7 @@ the Department of Veterans Affairs (VA).
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/Samore_CDC.png" %}
 {% include figure.html image="images/Collingwood_CFA.png" %}
 {% include figure.html image="images/photo.jpg" %}
 
