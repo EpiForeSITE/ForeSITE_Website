@@ -96,6 +96,24 @@ WILDE experts will serve as consultants to provide expertise on individual topic
 
 # {% include icon.html icon="fa-solid fa-users" %}Local Public Health Partners
 
+## {% include icon.html icon="fa-solid fa-users" %}Davis County Health Department
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: dchd" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}Salt Lake County Health Department
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: slco" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}Spokane Regional Health District
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: srhd" %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
