@@ -11,7 +11,7 @@ Below are publications from researchers on the ForeSITE team that exemplify the 
 
 {% include section.html %}
 
-## Highlights
+## Select Publications
 
 {%
   include list.html
@@ -20,11 +20,3 @@ Below are publications from researchers on the ForeSITE team that exemplify the 
   filters="group: featured"
   style="rich"
 %}
-
-## Select Publications
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
