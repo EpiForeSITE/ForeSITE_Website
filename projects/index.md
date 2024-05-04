@@ -7,8 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ForeSITE aims to develop and implement a library of modeling and analytic tools belonging to five toolsets:
+automated alerting, parameter estimation, scenario planning, forecasting/nowcasting, and
+economic impact analysis. We will establish a flexible, sustainable, practical, and replicable modeling infrastructure for a
+broad range of settings, including local health departments in rural locations, which have limited
+access to analytical support.
 
 {% include tags.html tags="publication, resource, website" %}
 
