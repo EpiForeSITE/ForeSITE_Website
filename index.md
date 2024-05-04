@@ -29,7 +29,7 @@ projects.
 
 {%
   include feature.html
-  image="images/Timing.png"
+  image="images/Timing copy.png"
   link="projects"
   title="ForeSITE Projects"
   text=text
