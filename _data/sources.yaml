@@ -1,44 +1,60 @@
 - id: doi:10.1101/2023.11.13.23298464
   type: paper
+  group: featured
   image: images/Efm.png
 
 - id: doi:10.1001/jamanetworkopen.2021.40906
   type: paper
+  group: featured
   image: images/Keegan_VE.png
 
 - id: pmid:34492025
+  type: paper
+  group: featured
   image: images/Wimmer_Model.png
 
 - id: pmid:33900179
+  type: paper
+  group: featured
   image: images/ScenaroModelingUtah.png
   
 - id: pmid:33824358
+  type: paper
+  group: featured
   image: images/ScenarioModel.png
 
 - id: pmid:34506478
+  type: paper
+  group: featured
   image: images/LTCF_NPI.png
 
 - id: doi:10.1101/2023.05.10.23289580
   type: paper
+  group: featured
   image: images/mpox.png
 
 - id: doi:10.1101/2020.06.12.20129551
   type: paper
+  group: featured
   image: images/LTCF_PAC.png
 
 - id: doi:10.1101/2020.04.08.20058842 
   type: paper
+  group: featured
   image: images/Jail.png
 
 - id: doi:10.3390/ijerph18168260
   type: paper
+  group: featured
   image: images/sporting_sir.png
 
 - id: doi:10.1001/jamanetworkopen.2022.40142
   type: paper
+  group: featured
   
 - id: doi:10.1101/2024.01.10.24301116
   type: paper
+  group: featured
   image: images/college_transmission.png
 
 
