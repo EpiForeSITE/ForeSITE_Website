@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,30 +202,214 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1101/2023.11.13.23298464
+  title: 'Assessing the Impact of Mask Mandates on SARS-CoV-2 Transmission: A Case
+    Study of Utah'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Alicia C. Horn
+  - Holly E. Shoemaker
+  - Lindsay T. Keegan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-13'
+  link: https://doi.org/gs4qrw
+  type: paper
+  image: images/Efm.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1001/jamanetworkopen.2021.40906
+  title: Analysis of Vaccine Effectiveness Against COVID-19 and the Emergence of Delta
+    and Other Variants of Concern in Utah
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Lindsay T. Keegan
+  - Shaun Truelove
+  - Justin Lessler
+  publisher: JAMA Network Open
+  date: '2021-12-23'
+  link: https://doi.org/gs4m2q
+  type: paper
+  image: images/Keegan_VE.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:34492025
+  title: Comparison of antigen- and RT-PCR-based testing strategies for detection
+    of SARS-CoV-2 in two high-exposure settings.
+  authors:
+  - Jay Love
+  - Megan T Wimmer
+  - Damon J A Toth
+  - Arthi Chandran
+  - Dilip Makhija
+  - Charles K Cooper
+  - Matthew H Samore
+  - Lindsay T Keegan
+  publisher: PloS one
+  date: '2021-09-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34492025
+  image: images/Wimmer_Model.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:33900179
+  title: Coordinated Strategy for a Model-Based Decision Support Tool for Coronavirus
+    Disease, Utah, USA.
+  authors:
+  - Hannah R Meredith
+  - Emerson Arehart
+  - Kyra H Grantz
+  - Alexander Beams
+  - Theresa Sheets
+  - Richard Nelson
+  - Yue Zhang
+  - Russell G Vinik
+  - Darryl Barfuss
+  - Jacob C Pettit
+  - Keegan McCaffrey
+  - Angela C Dunn
+  - Michael Good
+  - Shannon Frattaroli
+  - Matthew H Samore
+  - Justin Lessler
+  - Elizabeth C Lee
+  - Lindsay T Keegan
+  publisher: Emerging infectious diseases
+  date: '2021-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33900179
+  image: images/ScenaroModelingUtah.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:33824358
+  title: A scenario modeling pipeline for COVID-19 emergency planning.
+  authors:
+  - Joseph C Lemaitre
+  - Kyra H Grantz
+  - Joshua Kaminsky
+  - Hannah R Meredith
+  - Shaun A Truelove
+  - Stephen A Lauer
+  - Lindsay T Keegan
+  - Sam Shah
+  - Josh Wills
+  - Kathryn Kaminsky
+  - Javier Perez-Saez
+  - Justin Lessler
+  - Elizabeth C Lee
+  publisher: Scientific reports
+  date: '2021-04-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33824358
+  image: images/ScenarioModel.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:34506478
+  title: The importance of non-pharmaceutical interventions during the COVID-19 vaccine
+    rollout.
+  authors:
+  - "Nicol\xF2 Gozzi"
+  - Paolo Bajardi
+  - Nicola Perra
+  publisher: PLoS computational biology
+  date: '2021-09-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34506478
+  image: images/LTCF_NPI.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.05.10.23289580
+  title: Characterizing spatiotemporal variation in transmission heterogeneity during
+    the 2022 mpox outbreak in the USA
+  authors:
+  - Jay Love
+  - Cormac R. LaPrete
+  - Theresa R. Sheets
+  - George G. Vega Yon
+  - Alun Thomas
+  - Matthew H. Samore
+  - Lindsay T. Keegan
+  - Frederick R. Adler
+  - Rachel B. Slayton
+  - Ian H. Spicknall
+  - Damon J.A. Toth
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-14'
+  link: https://doi.org/gtszww
+  type: paper
+  image: images/mpox.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.06.12.20129551
+  title: 'Planning for the aftershocks: a model of post-acute care needs for hospitalized
+    COVID-19 patients'
+  authors:
+  - Matthew Maloney
+  - Ryan Morley
+  - Robert Checketts
+  - Peter Weir
+  - Darryl Barfuss
+  - Hannah R. Meredith
+  - Michelle G. Hofmann
+  - Matthew H. Samore
+  - Lindsay T. Keegan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-06-13'
+  link: https://doi.org/gs4m25
+  type: paper
+  image: images/LTCF_PAC.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.04.08.20058842
+  title: The Epidemiological Implications of Jails for Community, Corrections Officer,
+    and Incarcerated Population Risks from COVID-19
+  authors:
+  - Eric Lofgren
+  - Kristian Lum
+  - Aaron Horowitz
+  - Brooke Madubuonwu
+  - Kellen Myers
+  - Nina H. Fefferman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-14'
+  link: https://doi.org/gtszwx
+  type: paper
+  image: images/Jail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ijerph18168260
+  title: Excess Risk of COVID-19 to University Populations Resulting from In-Person
+    Sporting Events
+  authors:
+  - Stephanie S. Johnson
+  - Katelin C. Jackson
+  - Matthew S. Mietchen
+  - Samir Sbai
+  - Elissa J. Schwartz
+  - Eric T. Lofgren
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2021-08-04'
+  link: https://doi.org/gtszwz
+  type: paper
+  image: images/sporting_sir.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/jamanetworkopen.2022.40142
+  title: Revisiting the Question of Fan Attendance at Professional Sporting Events
+  authors:
+  - Stephanie S. Johnson
+  - Eric T. Lofgren
+  publisher: JAMA Network Open
+  date: '2022-11-18'
+  link: https://doi.org/gtszw2
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.01.10.24301116
+  title: Estimating SARS-CoV-2 transmission parameters between coinciding outbreaks
+    in a university population and the surrounding community
+  authors:
+  - Matthew S. Mietchen
+  - Erin Clancey
+  - Corrin McMichael
+  - Eric T. Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-11'
+  link: https://doi.org/gtszw3
+  type: paper
+  image: images/college_transmission.png
   plugin: sources.py
   file: sources.yaml
