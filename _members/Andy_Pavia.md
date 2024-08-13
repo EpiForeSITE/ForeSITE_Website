@@ -1,6 +1,6 @@
 ---
 name: Andy Pavia
-image: images/Andy_Pavia.tif
+image: images/Andy_Pavia.jpg
 role: member
 ---
  
