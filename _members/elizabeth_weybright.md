@@ -1,3 +1,4 @@
+---
 name: Elizabeth Weybright
 image: images/Weybright_Elizabeth.jpg
 role: member
