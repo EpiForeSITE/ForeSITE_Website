@@ -38,6 +38,10 @@ wsu:
   icon: fa-solid fa-bacteria
   description: Team Member
 
+stedi:
+  icon: fa-solid fa-user-group
+  description: Team Member
+
 # general
 
 link:
