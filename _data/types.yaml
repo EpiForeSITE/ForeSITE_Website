@@ -42,6 +42,10 @@ stedi:
   icon: fa-solid fa-user-group
   description: Team Member
 
+pm:
+  icon: fa-solid fa-check-square
+  description: Project Manager
+
 # general
 
 link:
