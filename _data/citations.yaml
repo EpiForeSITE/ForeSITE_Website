@@ -1,5 +1,56 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.08.28.24312731
+  title: A theoretical framework to quantify the tradeoff between individual and population
+    benefits of expanded antibiotic use
+  authors:
+  - Cormac R. LaPrete
+  - Sharia M. Ahmed
+  - Damon J.A. Toth
+  - Jody R. Reimer
+  - Valerie M. Vaughn
+  - Frederick R. Adler
+  - Lindsay T. Keegan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-08-28'
+  link: https://doi.org/g754qb
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0306622
+  title: Importance of underlying mechanisms for interpreting relative risk of Clostridioides
+    difficile infection among antibiotic-exposed patients in healthcare facilities
+  authors:
+  - Christopher Mitchell
+  - Lindsay T. Keegan
+  - Thuy T. T. Le
+  - Karim Khader
+  - Alexander Beams
+  - Matthew H. Samore
+  - Damon J. A. Toth
+  publisher: PLOS ONE
+  date: '2024-08-08'
+  link: https://doi.org/g754mb
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.04.18.24306047
+  title: Model-based estimates of age-structured SARS-CoV-2 epidemiology in households
+  authors:
+  - Damon J.A. Toth
+  - Theresa R. Sheets
+  - Alexander B. Beams
+  - Sharia M. Ahmed
+  - Nathan Seegert
+  - Jay Love
+  - Lindsay T. Keegan
+  - Matthew H. Samore
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-19'
+  link: https://doi.org/g754qc
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.11.13.23298464
   title: 'Assessing the Impact of Mask Mandates on SARS-CoV-2 Transmission: A Case
     Study of Utah'
@@ -17,7 +68,7 @@
   group: featured
   image: images/Efm.png
 - id: doi:10.1093/aje/kwac201
-  title: Are <i>Staphylococcus aureus</i> Carrier Types Evidence of Population Heterogeneity?
+  title: Are<i>Staphylococcus aureus</i>Carrier Types Evidence of Population Heterogeneity?
   authors:
   - Alexander Beams
   - Lindsay T Keegan
@@ -663,7 +714,7 @@
   - Matthew J. Ferrari
   - Daniel T. Leung
   - Lindsay T. Keegan
-  publisher: Public Health Reports
+  publisher: "Public Health Reports\xAE"
   date: '2021-02-04'
   link: https://doi.org/gs4m2z
   orcid: 0000-0002-8526-3007
