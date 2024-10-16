@@ -32,11 +32,6 @@ ForeSITE is comprised of teams from academic and public health partners
 ## {% include icon.html icon="fa-solid fa-users" %}STEDI Team
 
 {% include section.html %}
-STEDI: Sociotechnical System Evaluation, Design, And Implementation. STEDI
-activities will be integrated throughout the proposed CFA program to ensure that: 1)
-end-user needs are met, 2) there is successful integration and implementation in real-
-world settings, and 3) lessons learned from implementation are systematically
-documented
 
 {% include list.html data="members" component="portrait" filters="role: stedi" %}
 
