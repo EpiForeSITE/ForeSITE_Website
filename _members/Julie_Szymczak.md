@@ -1,6 +1,6 @@
 ---
 name: Julia "Julie" Szymczak
-image: images/Julie_headshot.jpeg
+image: 
 role: stedi
 ---
 Julia "Julie" Szymczak, PhD is an Associate Professor in the Division of Epidemiology at the University of Utah School of Medicine, where she Co-Directs the Utah Quality Advancement Laboratory (UQuAL). Dr. Szymczak is a medical sociologist who leads research that integrates social science theory and methods into efforts to transform healthcare delivery so it is reliably safe, equitable, and high quality. Her work over the past eight years has focused on reducing the harm to patients and populations from antibiotic resistant bacteria with the following objectives: 1) characterize the social determinants of antibiotics across clinical contexts, 2) generate evidence about what works to improve how antibiotics are prescribed, and 3) advance the use of implementation science in antibiotic stewardship research. A hallmark of Dr. Szymczak's work is an interest in the influence of organizational context on efforts to modify healthcare delivery. To center this interest, her work on antibiotics has spanned both human and veterinary medicine and taken place across varied clinical contexts including pediatrics, primary care, internal medicine, surgery, emergency medicine, and critical care.
