@@ -1,7 +1,7 @@
 ---
 name: George G. Vega Yon
 image: images/George_VegaYon.png
-role: member
+role: comp
 links:
   orcid: 0000-0002-3171-0844
   home-page: https://ggvy.cl
