@@ -18,9 +18,9 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-sphd:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Student
+econ:
+  icon: fa-solid fa-money-bill-trend-up
+  description: Team Member
 
 undergrad:
   icon: fa-solid fa-user-graduate
