@@ -1,7 +1,7 @@
 ---
 name: Assefaw Gebremedhin
 image: images/Assefaw_headshot.jpg
-role: wsu
+role: mod
 ---
 Assefaw Gebremedhin is an associate professor in the School of Electrical Engineering and Computer Science at Washington State University, where he leads the Scalable Algorithms for Data Science (SCADS) Lab. He also serves as Director and Lead PI of the Department of Defense-funded VICEROY Northwest Institute for Cybersecurity Education and Research (CySER), Lead of the Advancing AI Working Group at Washington State University,  and Director of a Department of Education-funded Graduate Assistance in Areas of National Need (GAANN) program focused on training graduate students at the intersection of AI, data science, and engineering applications.
 
