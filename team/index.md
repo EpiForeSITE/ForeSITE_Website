@@ -29,21 +29,18 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include list.html data="members" component="portrait" filters="role: wsu" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}STEDI Team
+## {% include icon.html icon="fa-solid fa-users" %}Sociotechnical System Evaluation,
+Design, And Implementation Team (STEDI)
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: stedi" %}
-{% include list.html data="members" component="portrait" filters="role: sphd" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}WILDE Team
+## {% include icon.html icon="fa-solid fa-users" %}Disease Ecology Team
 
 {% include section.html %}
 
-WILDE Experts: Wastewater, Infectious disease, Landscape & Disease ecologists, Epidemiologists (WILDE). The
-WILDE experts will serve as consultants to provide expertise on individual topics
-
-{% include list.html data="members" component="portrait" filters="role: wilde" %}
+{% include list.html data="members" component="portrait" filters="role: eco" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}Project Mangement Team
 
@@ -51,21 +48,13 @@ WILDE experts will serve as consultants to provide expertise on individual topic
 
 {% include list.html data="members" component="portrait" filters="role: pm" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Computational Team
+## {% include icon.html icon="fa-solid fa-users" %}Computational & Visual Analytics Team
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: comp" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Visual Analytics Team
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: vis" %}
-
 # {% include icon.html icon="fa-solid fa-users" %}State Public Health Partners
-
-
 
 ## {% include icon.html icon="fa-solid fa-users" %}Idaho Department of Public Health and Welfare
 
