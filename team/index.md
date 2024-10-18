@@ -12,7 +12,6 @@ ForeSITE is comprised of teams from academic and public health partners
 ## {% include icon.html icon="fa-solid fa-users" %}Leadership Team
 
 {% include section.html %}
-{% include list.html data="members" component="portrait" filters="role: con" %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}University of Utah Team
