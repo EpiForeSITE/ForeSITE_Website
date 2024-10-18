@@ -1,17 +1,11 @@
 ---
 name: Mike Rubin
-image: images/photo.jpg
+image: images/Rubin_headshot.png
 role: pi
 aliases:
   - M Rubin
-links:
-  orcid: 0000-0002-2900-5548
 ---
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum
+Dr. Rubin has clinical expertise in infectious diseases and hospital epidemiology, with a specific focus on preventable infections acquired from interactions with the health care setting. In particular, he is interested in infections caused by organisms resistant to multiple antibiotics (or, "multidrug-resistant organisms"), such as methicillin-resistant Staphylococcus aureus (MRSA) and Clostridium difficile. Although he specializes in the treatment of these types of infections, he also provides expertise in preventing these infections through the promotion of various infection control measures, such as strict adherence to handwashing, early removal of invasive devices, consistent use of contact isolation practices, and appropriate use of antibiotics.
+
+
