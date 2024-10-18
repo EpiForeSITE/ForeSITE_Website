@@ -29,6 +29,12 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include list.html data="members" component="portrait" filters="role: wsu" %}
 
+## {% include icon.html icon="fa-solid fa-users" %}Economic Impact Analysis Team
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: econ" %}
+
 ## {% include icon.html icon="fa-solid fa-users" %}Sociotechnical System Evaluation, Design & Implementation Team (STEDI)
 
 {% include section.html %}
@@ -41,7 +47,7 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include list.html data="members" component="portrait" filters="role: eco" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Project Mangement Team
+## {% include icon.html icon="fa-solid fa-users" %}Project Management Team
 
 {% include section.html %}
 
