@@ -29,8 +29,7 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include list.html data="members" component="portrait" filters="role: wsu" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Sociotechnical System Evaluation,
-Design, And Implementation Team (STEDI)
+## {% include icon.html icon="fa-solid fa-users" %}Sociotechnical System Evaluation, Design & Implementation Team (STEDI)
 
 {% include section.html %}
 
