@@ -1,6 +1,6 @@
 ---
 name: Erin Clancey
-image: images/
+image: images/Erin_headshot.png
 role: mod
 ---
 
