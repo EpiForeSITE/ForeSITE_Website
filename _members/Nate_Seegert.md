@@ -1,0 +1,7 @@
+---
+name: Nathan Seegert
+image: images/Nate_headshot.png
+role: econ
+---
+ 
+Nathan Seegert collaborates with policymakers and businesses to further our understanding of the economy. He co-founded the Utah Consumer and Business Economic Surveys, the Banking, Entrepreneurship, Regulations, and Taxes Study, the Utah Tax Invitational and the Utah Public Finance Invitational (UPFIN). He is the director of the Business and Public Policy Center. He currently is working with the Forecasting and Surveillance of Infectious Threats and Epidemics (ForeSITE) center on a $17.5 million grant from the Centers for Disease Control and Prevention (CDC) and previously worked on Utah's Health and Economic Recovery Outreach (HERO) Project. His work has been published in top academic journals such as The Quarterly Journal of Economics, The Journal of Finance, The Review of Economics and Statistics, and the Journal of Public Economics. It has been featured in The Wall Street Journal, The Washington Post, The Harvard Business Review, CBS Moneywatch, Forbes, Bloomberg, and The Atlantic. Nathan currently teaches at the University of Utah as an associate professor (with tenure) in the finance department. He is a member of the Utah Governor's Economic Council, an Ivory-Boyer Real Estate Center Research Fellow, a Faculty Advisor for the Kem C. Gardner Policy Institute, partners with Texas AM Geoservices, and is a David Eccles Faculty Fellow.
