@@ -38,8 +38,8 @@ member:
   icon: fa-solid fa-bacteria
   description: Team Member
 
-wsu:
-  icon: fa-solid fa-bacteria
+mod:
+  icon: fa-solid fa-chart-mixed
   description: Team Member
 
 stedi:
