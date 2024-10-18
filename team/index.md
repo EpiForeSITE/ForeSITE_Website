@@ -28,6 +28,13 @@ ForeSITE is comprised of teams from academic and public health partners
 
 {% include list.html data="members" component="portrait" filters="role: wsu" %}
 
+## {% include icon.html icon="fa-solid fa-users" %}Analytical Modeling Team
+The analytical modeling team is comprised of members specializing in anomaly detection, parameter estimation, scenario modeling, and/or forecasting.
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: mod" %}
+
 ## {% include icon.html icon="fa-solid fa-users" %}Economic Impact Analysis Team
 
 {% include section.html %}
