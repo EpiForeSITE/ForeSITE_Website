@@ -39,7 +39,7 @@ member:
   description: Team Member
 
 mod:
-  icon: fa-solid fa-chart-mixed
+  icon: fa-solid fa-chart-line
   description: Team Member
 
 stedi:
