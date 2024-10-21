@@ -20,7 +20,7 @@ phd:
 
 econ:
   icon: fa-solid fa-money-bill-trend-up
-  description: Team Member
+  description: 
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -40,15 +40,15 @@ member:
 
 mod:
   icon: fa-solid fa-chart-line
-  description: Team Member
+  description: 
 
 stedi:
   icon: fa-solid fa-user-group
-  description: Team Member
+  description: 
 
 pm:
   icon: fa-solid fa-check-square
-  description: Project Manager
+  description: 
 
 # general
 
