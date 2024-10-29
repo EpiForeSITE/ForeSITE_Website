@@ -59,6 +59,12 @@ The analytical modeling team is comprised of members specializing in anomaly det
 
 # {% include icon.html icon="fa-solid fa-users" %}State Public Health Partners
 
+{% include section.html %}
+{% capture content %}
+{% include figure.html image="images/Idaho_State.jpg" %} {% include figure.html image="images/Idaho_State.jpg" %} {% include figure.html image="images/Idaho_State.jpg" %}
+{% endcapture %}
+{% include grid.html style="square" content=content %}
+
 ## {% include icon.html icon="fa-solid fa-users" %}Idaho Department of Public Health and Welfare
 
 {% include section.html %}
