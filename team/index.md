@@ -33,23 +33,11 @@ The analytical modeling team is comprised of members specializing in anomaly det
 
 {% include list.html data="members" component="portrait" filters="role: stedi" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Disease Ecology Team
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: de" %}
-
 ## {% include icon.html icon="fa-solid fa-users" %}Subject Matter Experts Responding to Disease Emergencies
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: sme" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Rapid Response Team
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: rr" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}Project Management Team
 
@@ -70,30 +58,6 @@ The analytical modeling team is comprised of members specializing in anomaly det
 {% include figure.html image="images/Idaho_State.jpg" %} {% include figure.html image="images/Idaho_State.jpg" %} {% include figure.html image="images/Idaho_State.jpg" %}
 {% endcapture %}
 {% include grid.html style="square" content=content %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Idaho Department of Public Health and Welfare
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: idphw" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Montana Department of Health and Human Services
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: mdhhs" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Utah Department of Health and Human Services
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: udhhs" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Washington State Department of Health
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: wdoh" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Local Public Health Partners
 
