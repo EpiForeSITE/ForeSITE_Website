@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1177/00333549241290676
+  title: The Effectiveness of Face Mask Mandates on COVID-19 Transmission in Utah
+  authors:
+  - Alicia C. Horn
+  - Holly E. Shoemaker
+  - Lindsay T. Keegan
+  publisher: "Public Health Reports\xAE"
+  date: '2024-10-30'
+  link: https://doi.org/g8ps99
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.08.28.24312731
   title: A theoretical framework to quantify the tradeoff between individual and population
     benefits of expanded antibiotic use
