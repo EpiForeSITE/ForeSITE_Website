@@ -55,7 +55,7 @@ The analytical modeling team is comprised of members specializing in anomaly det
 
 {% include section.html %}
 {% capture content %}
-{% include figure.html image="images/Idaho_State.jpg" %} {% include figure.html image="images/Idaho_State.jpg" %} {% include figure.html image="images/Idaho_State.jpg" %}
+{% include figure.html image="images/Idaho_State.jpg" %} {% include figure.html image="images/Montana_state.png" %} {% include figure.html image="images/Utah_state.png" %}{% include figure.html image="images/WA_State.png" %}
 {% endcapture %}
 {% include grid.html style="square" content=content %}
 
