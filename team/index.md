@@ -39,6 +39,12 @@ The analytical modeling team is comprised of members specializing in anomaly det
 
 {% include list.html data="members" component="portrait" filters="role: de" %}
 
+## {% include icon.html icon="fa-solid fa-users" %}Subject Matter Experts Responding to Disease Emergencies
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: sme" %}
+
 ## {% include icon.html icon="fa-solid fa-users" %}Rapid Response Team
 
 {% include section.html %}
