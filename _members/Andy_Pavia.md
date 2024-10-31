@@ -1,7 +1,7 @@
 ---
 name: Andy Pavia
 image: images/Andy_Pavia.jpg
-role: rr
+role: sme
 ---
  
 Andrew Pavia M.D. is the George and Esther Gross Presidential Professor and Chief of the Division of Pediatric Infectious Diseases and adjunct Professor of Medicine at the University of Utah. He also serves as Director of Hospital Epidemiology at Primary Children's Medical Center and Associate Director of the Antimicrobial Stewardship Program. He received his MD from Brown University and was a resident and Chief resident in Medicine at Dartmouth. He served as an EIS officer and Preventive Medicine Resident at the Centers for Disease Control and Prevention (CDC) where he worked on diarrheal disease and HIV.  He did Pediatric and Adult ID fellowship at the University of Utah.
