@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.11.04.24316579
+  title: Quantifying the population-level impact of expanded antibiotic treatment
+    for cholera outbreak management
+  authors:
+  - Sharia M. Ahmed
+  - Cormac R. LaPrete
+  - Iza Ciglenecki
+  - Andrew S. Azman
+  - Daniel T. Leung
+  - Lindsay T. Keegan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-11-05'
+  link: https://doi.org/g8qmqh
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1177/00333549241290676
   title: The Effectiveness of Face Mask Mandates on COVID-19 Transmission in Utah
   authors:
