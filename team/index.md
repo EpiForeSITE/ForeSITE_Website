@@ -61,41 +61,7 @@ The analytical modeling team is comprised of members specializing in anomaly det
 
 # {% include icon.html icon="fa-solid fa-users" %}Local Public Health Partners
 
-## {% include icon.html icon="fa-solid fa-users" %}Davis County Health Department
-
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: dchd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Salt Lake County Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: slco" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Spokane Regional Health District
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: srhd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Tooele Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: tohd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Weber-Morgan Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: wmhd" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Whitman County Health Department
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: wchd" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Healthcare Partners
 
