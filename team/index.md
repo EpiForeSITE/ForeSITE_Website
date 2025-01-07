@@ -52,13 +52,59 @@ The analytical modeling team is comprised of members specializing in anomaly det
 {% include list.html data="members" component="portrait" filters="role: comp" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}State Public Health Partners
-
 {% include section.html %}
-{% capture content %}
-{% include figure.html image="images/Idaho_State.jpg" width="80%" %} {% include figure.html image="images/Montana_state.png" width="80%" %} 
-{% include figure.html image="images/Utah_state.png" width="80%" %}{% include figure.html image="images/WA_State.png" width="80%" %}
-{% endcapture %}
-{% include grid.html style="square" content=content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Grid</title>
+  <style>
+    /* General page styling */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    /* Container for the grid */
+    .image-grid {
+      display: grid;
+      grid-template-columns: 50% 50%;
+      grid-gap: 10px;
+      width: 100%;
+      max-width: 100%;
+    }
+
+    /* Styling for images */
+    .image-grid img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+
+    /* Optional: Styling for the images to make them visually distinct (for testing purposes) */
+    .square {
+      aspect-ratio: 1 / 1;
+    }
+    .rectangle {
+      aspect-ratio: 16 / 9;
+    }
+  </style>
+</head>
+<body>
+  <div class="image-grid">
+    <img src="images/Utah_state.png" alt="Square Image 1" class="square">
+    <img src="images/WA_State.png" alt="Rectangle Image 1" class="rectangle">
+    <img src="images/Montana_state.png" alt="Square Image 2" class="square">
+    <img src="images/Idaho_State.jpg" alt="Rectangle Image 2" class="rectangle">
+  </div>
+</body>
+</html>
 
 # {% include icon.html icon="fa-solid fa-users" %}Local Public Health Partners
 
