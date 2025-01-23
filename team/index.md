@@ -105,7 +105,7 @@ the Department of Veterans Affairs (VA).
 
 {% include figure.html image="images/Samore_CDC.png" %}
 {% include figure.html image="images/Collingwood_CFA.png" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/CFA group.png" %}
 
 {% endcapture %}
 
