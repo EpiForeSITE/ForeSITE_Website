@@ -52,45 +52,22 @@ The analytical modeling team is comprised of members specializing in anomaly det
 {% include list.html data="members" component="portrait" filters="role: comp" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}State Public Health Partners
+
 {% include section.html %}
 
-{%
-  include figure.html
-  image="images/Utah_state.png"
-  caption="Utah Department of Health and Human Services"
-  link="[team](https://dhhs.utah.gov/)"
-  width="400px"
-%}
+{% include list.html data="members" component="portrait" filters="role: state" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Local Public Health Partners
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Healthcare Partners
+{% include list.html data="members" component="portrait" filters="role: local" %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Intermountain Health
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: ihc" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}Pullman Regional Hospital
+# {% include icon.html icon="fa-solid fa-users" %}Healthcare System Partners
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: prh" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}UHealth
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: uh" %}
-
-## {% include icon.html icon="fa-solid fa-users" %}VA 
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: va" %}
+{% include list.html data="members" component="portrait" filters="role: hcs" %}
 
 
 {% include section.html dark=true %}
