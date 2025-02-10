@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1017/ash.2024.485
+  title: Association between social activities and risk of COVID-19 in a cohort of
+    healthcare personnel
+  authors:
+  - Holly Shoemaker
+  - Haojia Li
+  - Yue Zhang
+  - Jeanmarie Mayer
+  - Michael Rubin
+  - Candace Haroldsen
+  - Morgan M. Millar
+  - Per H. Gesteland
+  - Andrew T. Pavia
+  - Lindsay T. Keegan
+  - Jessica Marie Cole
+  - Egenia Dorsan
+  - Matthew Doane
+  - Kristina Stratford
+  - Matthew Samore
+  publisher: Antimicrobial Stewardship &amp; Healthcare Epidemiology
+  date: '2025-01-01'
+  link: https://doi.org/g83t2d
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.12.18.24319262
   title: A population-level analysis of armed conflict and diphtheria at the subnational
     level in the WHO African Region 2017-2024
