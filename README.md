@@ -3,4 +3,4 @@
 
 Visit **[epiforesite.github.io/ForeSITE_Website](https://epiforesite.github.io/ForeSITE_Website)** 🚀
 
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs). See its documentation for working with this site: https://greene-lab.gitbook.io/lab-website-template-docs_
