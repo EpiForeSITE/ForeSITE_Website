@@ -1,4 +1,4 @@
-	name: build-site
+name: build-site
 run-name: build live site
 
 on:
