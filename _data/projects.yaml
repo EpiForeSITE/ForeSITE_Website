@@ -1,10 +1,10 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Measles Modeling in Schools
+  subtitle: an agent-based simulation model
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: The purpose of this project is to build an agent-based intervention model for measles in Utah school settings to emphasize the importance of vaccination coverage and the impact of varying exemption rates. UDHHS hopes to be able to apply this model to inform the Utah legislative body to maintain or improve school vaccination policies.
+  repo: greenelab/lab-website-template 
   tags:
     - resource
 
