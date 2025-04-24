@@ -21,6 +21,10 @@ access to analytical support.
 
 ## Featured
 
+We’re proud to share a curated selection of our most impactful projects. These highlight the diverse tool development efforts happening at our center.
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
