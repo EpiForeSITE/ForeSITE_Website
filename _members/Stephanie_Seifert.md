@@ -1,6 +1,6 @@
 ---
 name: Stephanie Seifert
-image: images/
+image: images/Seifert.png
 role: sme
 ---
  
