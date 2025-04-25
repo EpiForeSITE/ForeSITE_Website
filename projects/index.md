@@ -25,8 +25,6 @@ We’re proud to share a curated selection of our most impactful projects. These
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
 {% include section.html %}
 
 ## More
