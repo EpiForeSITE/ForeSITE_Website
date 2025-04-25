@@ -1,6 +1,6 @@
 ---
 name: Andrew Redd
-image: images/
+image: images/Redd.png
 role: mod
 ---
  
