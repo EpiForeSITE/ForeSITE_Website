@@ -1,6 +1,6 @@
 ---
 name: Per Gesteland
-image: images/
+image: images/Per.png
 role: sme
 ---
  
