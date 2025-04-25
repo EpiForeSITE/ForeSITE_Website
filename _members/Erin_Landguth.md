@@ -1,6 +1,6 @@
 ---
 name: Erin Landguth
-image: images/
+image: images/Landguth.png
 role: sme
 ---
  
