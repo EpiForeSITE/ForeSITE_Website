@@ -1,6 +1,6 @@
 ---
 name: JeanMarie Mayer
-image: images/
+image: images/Jeannie.png
 role: sme
 ---
  
