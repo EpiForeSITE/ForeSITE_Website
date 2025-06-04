@@ -1,3 +1,4 @@
+---
 name: Jake Wagoner
 image: images/
 role: comp
