@@ -13,20 +13,8 @@ economic impact analysis. We will establish a flexible, sustainable, practical, 
 broad range of settings, including local health departments in rural locations, which have limited
 access to analytical support.
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
-
-We’re proud to share a curated selection of our most impactful projects. These highlight the diverse tool development efforts happening at our center.
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" %}
