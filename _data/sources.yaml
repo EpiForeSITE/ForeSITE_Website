@@ -58,7 +58,7 @@
   group: featured
   image: images/college_transmission.png
 
-- id: doi: 10.1093/haschl/qxaf045
+- id: doi:10.1093/haschl/qxaf045
   type: paper
   group: featured
   image: images/HAS.png
