@@ -1,3 +1,4 @@
+---
 name: Paul Rosen
 image: images/
 role: comp
