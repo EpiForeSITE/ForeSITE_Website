@@ -1,6 +1,6 @@
 ---
 name: Tingying He
-image: images/
+image: images/tingying.png
 role: comp
 ---
  
