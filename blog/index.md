@@ -5,7 +5,17 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-stars" %}Highlights
+# {% include icon.html icon="fa-solid fa-star" %}Highlights
+
+{% capture text %}
+
+ForeSITE is one of 13 Insight Net centers across the U.S. improving the ability to understand, predict, prepare for, and respond to infectious disease emergencies. ForeSITE serves as an integrator center driven to adapt analytic tools for use in real-word settings. 
+
+{% include button.html link="(https://insightnet.us/)" text="Learn about Insight Net" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/CFA_Lacross.png" link="team" title="CFA Insight Net" text=text %}
 
 {% capture text %} The aim of ForeSITE is to establish a flexible, sustainable, practical, and replicable modeling infrastructure for a broad range of settings, including local health departments in rural locations, which have limited access to analytical support. To learn more about the development and implementation of these tools, check out our projects.
 
