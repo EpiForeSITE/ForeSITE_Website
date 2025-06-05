@@ -8,32 +8,15 @@ ForeSITE is a CDC Center for Integration in the Center for Forecasting and Outbr
 
 {% include section.html %}
 
-## Highlights
+## About
 
 {% capture text %}
-The aim of ForeSITE is to establish a flexible, sustainable, practical, and replicable modeling infrastructure for a
-broad range of settings, including local health departments in rural locations, which have limited
-access to analytical support. To learn more about the development and implementation of these tools, check out our 
-projects. 
 
-{%
-  include button.html
-  link="projects"
-  text="ForeSITE Projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+ForeSITE is one of 13 [Insight Net](https://insightnet.us/) centers across the U.S. improving the ability to understand, predict, prepare for, and respond to infectious disease emergencies. ForeSITE serves as an Integration Center driven to adapt analytic tools for use in real-word settings. 
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/Timing copy.png"
-  link="projects"
-  title="ForeSITE Projects"
-  text=text
-%}
+{% include feature.html image="images/CFAVisit.jpeg" title="CFA Insight Net" text=text %}
 
 {% capture text %}
 
