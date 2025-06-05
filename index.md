@@ -8,7 +8,7 @@ ForeSITE is a CDC Center for Integration in the Center for Forecasting and Outbr
 
 {% include section.html %}
 
-# About
+# About ForeSITE
 
 {% capture text %}
 
@@ -42,6 +42,6 @@ ForeSITE's primary objective is a library of five different toolsets, including 
   include feature.html
   image="images/wheel.png"
   link="team"
-  title="ForeSITE Team"
+  title="Toolset Teams"
   text=text
 %}
