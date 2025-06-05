@@ -29,26 +29,18 @@ CFA ForeSITE aims to incorporate health equity at each stage of the tool develop
   image="images/integration_plan.png"
   title="Our Integration Plan"
   text=text
+  flip=true
 %}
 
 {% capture text %}
 
-ForeSITE is a partnership between academic, public health, and healthcare institutions, comprised of an interdisciplinary team of researchers and implementation partners. 
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+ForeSITE's primary objective is a library of five different toolsets, including automated alerting, parameter estimation, scenario modeling, forecasting/nowcasting, and economic impact analysis.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/CFA_Lacross.png"
+  image="images/wheel.png"
   link="team"
   title="ForeSITE Team"
   text=text
