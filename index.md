@@ -20,26 +20,14 @@ ForeSITE is one of 13 [Insight Net](https://insightnet.us/) centers across the U
 
 {% capture text %}
 
-Our team works on a multitude of different pathogen systems and a variety of methods. Browse our publications to get an idea of the flavor of our research and implementation.
-
-{%
-  include button.html
-  link="research"
-  text="Publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+CFA ForeSITE aims to incorporate health equity at each stage of the tool development and integration process. Due to the wide span of project stakeholders, the cycle for engaging with implementation partners is shown below. Cores will will be supported through tool development team (blue) to create models. The bridge team (yellow) will facilitate interaction between academic and public health partners for refinement. Implementing partners (green) will provide iterative feedback to evaluate the tools.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/Efm_copy.png"
-  link="research"
-  title="ForeSITE Publications"
-  flip=true
-  style="bare"
+  image="images/integration_plan.png"
+  title="Our Integration Plan"
   text=text
 %}
 
