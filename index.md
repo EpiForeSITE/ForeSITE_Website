@@ -8,7 +8,7 @@ ForeSITE is a CDC Center for Integration in the Center for Forecasting and Outbr
 
 {% include section.html %}
 
-## About
+# About
 
 {% capture text %}
 
