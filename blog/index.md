@@ -11,7 +11,7 @@ nav:
 
 ForeSITE is one of 13 Insight Net centers across the U.S. improving the ability to understand, predict, prepare for, and respond to infectious disease emergencies. ForeSITE serves as an integrator center driven to adapt analytic tools for use in real-word settings. 
 
-{% include button.html link="(https://insightnet.us/)" text="Learn about Insight Net" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+{% include button.html link="insightnet.us" text="Learn about Insight Net" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 
 {% endcapture %}
 
