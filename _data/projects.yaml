@@ -2,23 +2,23 @@
   subtitle: agent-based simulation model
   image: images/measles.png
   link: https://gvegayon.shinyapps.io/epiworldRShiny/
-  description: The purpose of this project is to build an agent-based intervention model for measles in Utah school settings to emphasize the importance of vaccination coverage and the impact of varying exemption rates. UDHHS hopes to be able to apply this model to inform the Utah legislative body to maintain or improve school vaccination policies.
+  description: The purpose of this project is to build an agent-based intervention model for measles in Utah school settings to emphasize the importance of vaccination coverage and the impact of increased vaccine exemption rates. UDHHS hopes to be able to apply this model to inform the Utah legislative body to maintain or improve school vaccination policies.
 
 - title: Time Series Statistical Alerts Application
   subtitle: user-friendly anomaly detection app
   image: images/timeapp.png
   link: https://github.com/EpiForeSITE
-  description: The purpose of this project is to easily distribute a capability of time series statistical alerts to analysts in public health. While software tools such as these usually require a software developer or statistician, the aim is to provide an easy-to-use solution so that analysts in STLT Health Departments can leverage these with their current capacities.
+  description: This app intends to easily distribute the capability of time series statistical alerts to analysts in public health. While software tools such as these usually require a software developer or statistician, the goal is to provide an easy-to-use solution so that analysts in STLT Health Departments can leverage an adaptable alerting system their current capacities.
 
 - title: Economic Analysis of Employer-Sponsored Flu Vaccine
   subtitle: cost-benefit analysis
-  image: images/
+  image: images/econ_flu.png
   link: 
-  description: The purpose of this project is to generate Utah-specific estimates of the benefits to employers for maintaining a vaccinated workforce. Our economic team will model costs for employers implementing a workplace vaccination program compared to those who do not. Findings from this work may be used to inform Utah legislative decisions.
+  description: Our cost-benefit analysis aims to generate Utah-specific estimates of the benefits to employers for maintaining a vaccinated workforce. Our economic team will model costs for employers implementing a workplace vaccination program compared to those who do not. Findings from this work may be used to inform Utah legislative decisions.
 
 - title: Anomaly Identification in Enteric Infection Reports
   subtitle: use of space-time clustering
-  image: images/
+  image: images/anomaly.png
   link: 
   description: The purpose of this project is to assist DHHS in the application of space-time clustering methods to detect anomalies in reported enteric infections. The project will use synthetic data to identify optimal parameters, provide small area population estimates to improve cluster delineation, develop methods to incorporate specific potential sources of transmission (pools, water systems), and package these into easily-used tools for implementation by public health partners.
 
@@ -32,7 +32,7 @@
   subtitle: R Shiny package
   image: images/
   link: 
-  description: The purpose of this project is to create a software program that automates the process of generating local health departments' monthly disease incident reports. This work aims to delivers a basic system for quickly updating data tables, as well as an adanced system for automating the entire reporting process.
+  description: The purpose of this project is to create a software program that automates the process of generating local health departments' monthly disease incident reports. This work aims to delivers a basic system for quickly updating data tables, as well as an advanced system for automating the entire reporting process.
 
 
 
