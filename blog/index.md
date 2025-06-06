@@ -17,7 +17,7 @@ Our ForeSITE center proudly hosted the 2025 Insight Net Annual Meeting at the Un
 
 {% capture text %}
 
-{% capture text %} The aim of ForeSITE is to establish a flexible, sustainable, practical, and replicable modeling infrastructure for a broad range of settings, including local health departments in rural locations, which have limited access to analytical support. To learn more about the development and implementation of these tools, check out our projects.
+The aim of ForeSITE is to establish a flexible, sustainable, practical, and replicable modeling infrastructure for a broad range of settings, including local health departments in rural locations, which have limited access to analytical support. To learn more about the development and implementation of these tools, check out our projects.
 
 {% include button.html link="projects" text="ForeSITE Projects" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 
