@@ -20,7 +20,7 @@ ForeSITE is one of 13 [Insight Net](https://insightnet.us/) centers across the U
 
 {% capture text %}
 
-CFA ForeSITE aims to incorporate health equity at each stage of the tool development and integration process. Due to the wide span of project stakeholders, the cycle for engaging with implementation partners is shown below. Cores will will be supported through tool development team (blue) to create models. The bridge team (yellow) will facilitate interaction between academic and public health partners for refinement. Implementing partners (green) will provide iterative feedback to evaluate the tools.
+ForeSITE represents one of five Insight Net Integrators. As a center of integration, ForeSITE aims to align STLT partners with tools for real-world use, develop response-ready pipelines, and evaluate the value of these tools and methods.  
 
 {% endcapture %}
 
@@ -34,7 +34,7 @@ CFA ForeSITE aims to incorporate health equity at each stage of the tool develop
 
 {% capture text %}
 
-ForeSITE consists of seven core teams spanning a range of analytical subject areas, which include: Anomaly Detection & Forecasting/Nowcasting, Parameter Estimation & Scenario Modeling, Economic Impact Analysis, Rapid Response, Disease Ecology, and Tool Development. 
+ForeSITE consists of seven core teams spanning a range of analytical subject areas, which include: Anomaly Detection & Forecasting/Nowcasting, Parameter Estimation & Scenario Modeling, Economic Impact Analysis, Rapid Response, Disease Ecology, Tool Development, and Sociotechnical Evaluation, Design, & Implementation (STEDI). 
 
 {% endcapture %}
 
