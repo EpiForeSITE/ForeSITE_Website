@@ -27,20 +27,20 @@ CFA ForeSITE aims to incorporate health equity at each stage of the tool develop
 {%
   include feature.html
   image="images/integration_plan.png"
-  title="Our Integration Plan"
+  title="Our Role as Integrators"
   text=text
   flip=true
 %}
 
 {% capture text %}
 
-ForeSITE's primary objective is a library of five different toolsets, including automated alerting, parameter estimation, scenario modeling, forecasting/nowcasting, and economic impact analysis.
+ForeSITE consists of seven core teams spanning a range of analytical subject areas, which include: Anomaly Detection & Forecasting/Nowcasting, Parameter Estimation & Scenario Modeling, Economic Impact Analysis, Rapid Response, Disease Ecology, and Tool Development. 
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/wheel.png"
+  image="images/foresite_teams.png"
   link="team"
   title="Toolset Teams"
   text=text
