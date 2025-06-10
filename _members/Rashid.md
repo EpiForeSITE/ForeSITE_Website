@@ -1,6 +1,6 @@
 ---
 name: Muhammed Rashid
-image: images/
+image: images/Rashid.png
 role: econ
 ---
  
