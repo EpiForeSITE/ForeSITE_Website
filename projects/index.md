@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 ForeSITE aims to develop and implement a library of modeling and analytic tools belonging to three toolsets:
-Anomaly Detection & Forecasting/Nowcasting, parameter estimation & Scenario Modeling, and
+Anomaly Detection & Forecasting/Nowcasting, Parameter Estimation & Scenario Modeling, and
 Economic Impact Analysis. We will establish a flexible, sustainable, practical, and replicable modeling infrastructure for a
 broad range of settings, including local health departments in rural locations, which have limited
 access to analytical support. Below, we have included a sampling of our ongoing efforts.
