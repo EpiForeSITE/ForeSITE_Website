@@ -70,10 +70,6 @@ The analytical modeling team is comprised of members specializing in anomaly det
 
 {% include section.html dark=true %}
 
-ForeSITE aims to integrate forecasting and analytics with public health
-departments and healthcare organizations regionally in the Intermountain West and nationally in
-the Department of Veterans Affairs (VA).
-
 {% include section.html %}
 
 {% capture content %}
