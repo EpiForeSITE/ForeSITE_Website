@@ -21,6 +21,6 @@ access to analytical support. Below, we have included a sampling of our ongoing 
 
 {% include section.html dark=true %}
 
-If your team is interested in connecting with ForeSITE, please reach out via our Contact page!
+<center>If your team is interested in connecting with ForeSITE, please reach out via our Contact page!
 
 {% include section.html %}
