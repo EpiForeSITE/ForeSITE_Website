@@ -4,7 +4,7 @@
   link: https://gvegayon.shinyapps.io/epiworldRShiny/
   description: The purpose of this project is to build an agent-based intervention model for measles in Utah school settings to emphasize the importance of vaccination coverage and the impact of increased vaccine exemption rates. UDHHS hopes to be able to apply this model to inform the Utah legislative body to maintain or improve school vaccination policies.
 
-- title: Time Series Statistical Alerts Application
+- title: Time Series Statistical Alerting Application
   subtitle: user-friendly anomaly detection app
   image: images/timeapp.png
   link: https://github.com/EpiForeSITE
@@ -18,7 +18,7 @@
 
 - title: Anomaly Identification in Enteric Infection Reports
   subtitle: use of space-time clustering
-  image: images/anomaly.png
+  image: images/anomaly1.png
   link: 
   description: The purpose of this project is to assist DHHS in the application of space-time clustering methods to detect anomalies in reported enteric infections. The project will use synthetic data to identify optimal parameters, provide small area population estimates to improve cluster delineation, develop methods to incorporate specific potential sources of transmission (pools, water systems), and package these into easily-used tools for implementation by public health partners.
 
@@ -26,13 +26,13 @@
   subtitle: risk mapping
   image: images/
   link: 
-  description: The purpose of this project is to develop a model to identify high risk areas for early outbreaks of highly pathogenic avian influenza (HPAI) in humans in Washington state. This project aims to produce a geospatial map highlighting areas where early detection of HPAI in humans is most likely to occur. The anticipated uses of this tool will be to inform targeted surveillance and response planning among STLT partners.
+  description: This disease ecology project intends to develop a model to identify high risk areas for early outbreaks of highly pathogenic avian influenza (HPAI) in humans in Washington state. This project aims to produce a geospatial map highlighting areas where early detection of HPAI in humans is most likely to occur. The anticipated uses of this tool will be to inform targeted surveillance and response planning among STLT partners.
 
 - title: Automated Disease Surveillance Reporting
   subtitle: R Shiny package
   image: images/
-  link: 
-  description: The purpose of this project is to create a software program that automates the process of generating local health departments' monthly disease incident reports. This work aims to delivers a basic system for quickly updating data tables, as well as an advanced system for automating the entire reporting process.
+  link: https://github.com/EpiForeSITE/epitrax-report-automation
+  description: The goal of this project is to create a software program that automates the process of generating local health departments' monthly disease incident reports. This work aims to delivers a basic system for quickly updating data tables, as well as an advanced system for automating the entire reporting process.
 
 
 
