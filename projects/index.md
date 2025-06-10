@@ -18,3 +18,9 @@ access to analytical support.
 {% include section.html %}
 
 {% include list.html component="card" data="projects" %}
+
+{% include section.html dark=true %}
+
+If your team is interested in connecting with ForeSITE, please reach out via our Contact page!
+
+{% include section.html %}
