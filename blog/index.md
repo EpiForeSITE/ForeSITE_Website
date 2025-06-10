@@ -10,6 +10,7 @@ nav:
 {% capture text %}
 
 Our ForeSITE center proudly hosted the 2025 Insight Net Annual Meeting at the University of Utah in Salt Lake City, UT. The meeting was an huge success and fostered network collaboration amongst academic, public health, and healthcare system partners. 
+ForeSITE was well represented throughout the sessions and led, moderated, and/or presented in 11 sessions: Center-STLT Collaborations & Successes; Case Studies on Challenges in Program Administration; Modeling Guidance Work Group; Measles Analytics & Response; Value of Insight Net; Infectious Disease & Economic Analyses; Wastewater Work Group; InsightNet Approved Tools: Rt Estimation; Communications Special Topic: Providing Information for Decision Making & Improving Communication; Center Flash Talks; and The Nitty Gritty of Public Health.
 
 {% endcapture %}
 
