@@ -30,7 +30,7 @@
 
 - title: Automated Disease Surveillance Reporting
   subtitle: R Shiny package
-  image: images/
+  image: images/code.png
   link: https://github.com/EpiForeSITE/epitrax-report-automation
   description: The goal of this project is to create a software program that automates the process of generating local health departments' monthly disease incident reports. This work aims to delivers a basic system for quickly updating data tables, as well as an advanced system for automating the entire reporting process.
 
