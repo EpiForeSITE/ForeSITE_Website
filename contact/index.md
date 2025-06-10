@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-For interest or inquiries about ForeSITE, please reach out!
+While ForeSITE focuses on developing and implementing tools across the Intermountain West, we are always excited to talk with academics and public health or healthcare partners more broadly. For questions about our program or collaboration inquiries, please reach out!
 
 
 {%
