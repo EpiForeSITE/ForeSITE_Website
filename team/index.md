@@ -5,8 +5,6 @@ nav:
   tooltip: About our team
 ---
 
-ForeSITE is comprised of teams from academic and public health partners 
-
 # {% include icon.html icon="fa-solid fa-users" %}Academic Team
 
 ## {% include icon.html icon="fa-solid fa-users" %}Leadership Team
