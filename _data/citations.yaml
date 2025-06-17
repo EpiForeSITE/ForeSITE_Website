@@ -1077,6 +1077,393 @@
   orcid: 0000-0002-8526-3007
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1515/em-2024-0020
+  title: Time-varying reproductive number estimation for practical application in
+    structured populations
+  authors:
+  - Erin Clancey
+  - Eric T. Lofgren
+  publisher: Epidemiologic Methods
+  date: '2025-01-01'
+  link: https://doi.org/g9qkk8
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3698587.3701340
+  title: A Multi-task Learning Approach for Predicting Spatio-temporal Patient Variables
+  authors:
+  - Kaniz Fatema Madhobi
+  - Eric Lofgren
+  - Ananth Kalyanaraman
+  publisher: Proceedings of the 15th ACM International Conference on Bioinformatics,
+    Computational Biology and Health Informatics
+  date: '2024-11-22'
+  link: https://doi.org/g9qkk9
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.03.30.587440
+  title: '3D Printers in Hospitals: Bacterial Contamination of Common and Antimicrobial
+    3D-Printed Material'
+  authors:
+  - Katelin C. Jackson
+  - Erin Clancey
+  - Douglas R. Call
+  - Eric Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-31'
+  link: https://doi.org/g9qkmb
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.03.01.24303412
+  title: 'Charting is Never Exciting: Measuring Physician Time Use in Medical Dramas'
+  authors:
+  - Katelin C Jackson
+  - Kayla A Miller
+  - Samantha M Hill
+  - Stephanie S. Johnson
+  - Laila A. Reimanis
+  - Eric T Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-07'
+  link: https://doi.org/g9qkmc
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.14.24302485
+  title: Healthcare Worker Staffing Ratios Affect Methicillin-Resistant<i>Staphylococcus
+    aureus</i>Acquisition
+  authors:
+  - Stephanie Sikavitsas Johnson
+  - Matthew Steven Mietchen
+  - Eric Thomas Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-02-15'
+  link: https://doi.org/g9qkmd
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.08.24302489
+  title: Impact of Shifting University Policies During the COVID-19 Pandemic on Self-Reported
+    Employee Social Networks
+  authors:
+  - Stephanie S. Johnson
+  - Katelin C. Jackson
+  - Eric T. Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-02-08'
+  link: https://doi.org/g9qkmf
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.01.10.24301116
+  title: 'Unexpected Transmission Dynamics in a University Town: Lessons from COVID-19'
+  authors:
+  - Erin Clancey
+  - Matthew S. Mietchen
+  - Corrin McMichael
+  - Eric T. Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-11'
+  link: https://doi.org/gtszw3
+  orcid: 0000-0003-2052-7240
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  group: featured
+  image: images/college_transmission.png
+- id: doi:10.1017/ice.2022.174
+  title: Estimate of undetected severe acute respiratory coronavirus virus 2 (SARS-CoV-2)
+    infection in acute-care hospital settings using an individual-based microsimulation
+    model
+  authors:
+  - Kasey Jones
+  - Emily Hadley
+  - Sandy Preiss
+  - Eric T. Lofgren
+  - Donald P. Rice
+  - Marie C. D. Stoner
+  - Sarah Rhea
+  - "Jo\xEBlla W. Adams"
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2022-09-01'
+  link: https://doi.org/g9qkmg
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v14081672
+  title: Sequence Similarity Network Analysis Provides Insight into the Temporal and
+    Geographical Distribution of Mutations in SARS-CoV-2 Spike Protein
+  authors:
+  - Shruti S. Patil
+  - Helen N. Catanese
+  - Kelly A. Brayton
+  - Eric T. Lofgren
+  - Assefaw H. Gebremedhin
+  publisher: Viruses
+  date: '2022-07-29'
+  link: https://doi.org/g9qkmh
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1010352
+  title: Examining the impact of ICU population interaction structure on modeled colonization
+    dynamics of Staphylococcus aureus
+  authors:
+  - Matthew S. Mietchen
+  - Christopher T. Short
+  - Matthew Samore
+  - Eric T. Lofgren
+  publisher: PLOS Computational Biology
+  date: '2022-07-25'
+  link: https://doi.org/g9qkmj
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.03.01.22271660
+  title: Examining the Impact of ICU Population Interaction Structure on Modeled Colonization
+    Dynamics of<i>Staphylococcus aureus</i>
+  authors:
+  - Matthew S. Mietchen
+  - Christopher T. Short
+  - Matthew Samore
+  - Eric T. Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-03'
+  link: https://doi.org/g9qkmk
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.22.22271374
+  title: Who Is Hospitalized With Whom? Inpatient Contact Networks and Mixing Patterns
+  authors:
+  - Kaniz Fatema Madhobi
+  - Ananth Kalyanaraman
+  - Deverick J. Anderson
+  - Elizabeth Dodds-Ashley
+  - Rebekah W. Moehring
+  - Eric T. Lofgren
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-24'
+  link: https://doi.org/g9qkmm
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0260580
+  title: Transient dynamics of infection transmission in a simulated intensive care
+    unit
+  authors:
+  - Katelin C. Jackson
+  - Christopher T. Short
+  - Kellan R. Toman
+  - Matthew S. Mietchen
+  - Eric Lofgren
+  publisher: PLOS ONE
+  date: '2022-02-03'
+  link: https://doi.org/g9qkmn
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijerph18168260
+  title: Excess Risk of COVID-19 to University Populations Resulting from In-Person
+    Sporting Events
+  authors:
+  - Stephanie S. Johnson
+  - Katelin C. Jackson
+  - Matthew S. Mietchen
+  - Samir Sbai
+  - Elissa J. Schwartz
+  - Eric T. Lofgren
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2021-08-04'
+  link: https://doi.org/gtszwz
+  orcid: 0000-0003-2052-7240
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  group: featured
+  image: images/sporting_sir.png
+- id: doi:10.1101/2020.04.08.20058842
+  title: The Epidemiological Implications of Jails for Community, Corrections Officer,
+    and Incarcerated Population Risks from COVID-19
+  authors:
+  - Eric Lofgren
+  - Kristian Lum
+  - Aaron Horowitz
+  - Brooke Madubuonwu
+  - Kellen Myers
+  - Nina H. Fefferman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-14'
+  link: https://doi.org/gtszwx
+  orcid: 0000-0003-2052-7240
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  group: featured
+  image: images/Jail.png
+- id: doi:10.1111/jam.14499
+  title: Identifying predictors of antimicrobial exposure in hospitalized patients
+    using a machine learning approach
+  authors:
+  - A.S. Chowdhury
+  - E.T. Lofgren
+  - R.W. Moehring
+  - S.L. Broschat
+  publisher: Journal of Applied Microbiology
+  date: '2019-11-12'
+  link: https://doi.org/g9qkmp
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijerph17051500
+  title: Assessing the Potential Impact of a Long-Acting Skin Disinfectant in the
+    Prevention of Methicillin-Resistant Staphylococcus aureus Transmission
+  authors:
+  - Christopher T. Short
+  - Matthew S. Mietchen
+  - Eric T. Lofgren
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2020-02-26'
+  link: https://doi.org/g9qkmq
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12879-017-2632-1
+  title: 'Estimating the impact of post randomization changes in staff behavior in
+    infection prevention trials: a mathematical modeling approach'
+  authors:
+  - Eric T. Lofgren
+  publisher: BMC Infectious Diseases
+  date: '2017-08-03'
+  link: https://doi.org/g9qkmr
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/674394
+  title: A Mathematical Model to Evaluate the Routine Use of Fecal Microbiota Transplantation
+    to Prevent Incident and Recurrent <i>Clostridium difficile</i> Infection
+  authors:
+  - Eric T. Lofgren
+  - Rebekah W. Moehring
+  - Deverick J. Anderson
+  - David J. Weber
+  - Nina H. Fefferman
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2014-01-01'
+  link: https://doi.org/f5ndnt
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/EDE.0000000000000119
+  title: Hospital-Acquired Clostridium difficile Infections
+  authors:
+  - Eric T. Lofgren
+  - Stephen R. Cole
+  - David J. Weber
+  - Deverick J. Anderson
+  - Rebekah W. Moehring
+  publisher: Epidemiology
+  date: '2014-07-01'
+  link: https://doi.org/f56ndn
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/673144
+  title: "Impact of Change to Molecular Testing for <i>Clostridium difficile</i> Infection\
+    \ on Healthcare Facility\u2013Associated Incidence Rates"
+  authors:
+  - Rebekah W. Moehring
+  - Eric T. Lofgren
+  - Deverick J. Anderson
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2013-10-01'
+  link: https://doi.org/f49tsf
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1750-2659.2011.00284.x
+  title: "Performance of rapid influenza H1N1 diagnostic tests: a meta\u2010analysis"
+  authors:
+  - Haitao Chu
+  - Eric T. Lofgren
+  - M. Elizabeth Halloran
+  - Pei F. Kuan
+  - Michael Hudgens
+  - Stephen R. Cole
+  publisher: Influenza and Other Respiratory Viruses
+  date: '2011-08-31'
+  link: https://doi.org/fj95g7
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/EDE.0b013e318258369b
+  title: Visualizing Results From Infection Transmission Models
+  authors:
+  - Eric T. Lofgren
+  publisher: Epidemiology
+  date: '2012-09-01'
+  link: https://doi.org/f37jkz
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1750-2659.2010.00137.x
+  title: "Disproportional effects in populations of concern for pandemic influenza:\
+    \ insights from seasonal epidemics in Wisconsin, 1967\u20132004"
+  authors:
+  - Eric T. Lofgren
+  - Julia B. Wenger
+  - Nina H. Fefferman
+  - David Bina
+  - Steve Gradus
+  - Sanjib Bhattacharyya
+  - Yuri N. Naumov
+  - Jack Gorski
+  - Elena N. Naumova
+  publisher: Influenza and Other Respiratory Viruses
+  date: '2010-07-01'
+  link: https://doi.org/c786px
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1473-3099(07)70218-9
+  title: Further interest in virtual game worlds
+  authors:
+  - Eric T Lofgren
+  - Nina H Fefferman
+  publisher: The Lancet Infectious Diseases
+  date: '2007-10-01'
+  link: https://doi.org/b7mwgt
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.01680-06
+  title: 'Influenza Seasonality: Underlying Causes and Modeling Theories'
+  authors:
+  - Eric Lofgren
+  - N. H. Fefferman
+  - Y. N. Naumov
+  - J. Gorski
+  - E. N. Naumova
+  publisher: Journal of Virology
+  date: '2007-06-01'
+  link: https://doi.org/cmc3cm
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1473-3099(07)70212-8
+  title: The untapped potential of virtual game worlds to shed light on real world
+    epidemics
+  authors:
+  - Eric T Lofgren
+  - Nina H Fefferman
+  publisher: The Lancet Infectious Diseases
+  date: '2007-09-01'
+  link: https://doi.org/d7dwmb
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:34492025
   title: Comparison of antigen- and RT-PCR-based testing strategies for detection
     of SARS-CoV-2 in two high-exposure settings.
@@ -1189,42 +1576,6 @@
   image: images/mpox.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2020.04.08.20058842
-  title: The Epidemiological Implications of Jails for Community, Corrections Officer,
-    and Incarcerated Population Risks from COVID-19
-  authors:
-  - Eric Lofgren
-  - Kristian Lum
-  - Aaron Horowitz
-  - Brooke Madubuonwu
-  - Kellen Myers
-  - Nina H. Fefferman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-04-14'
-  link: https://doi.org/gtszwx
-  type: paper
-  group: featured
-  image: images/Jail.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3390/ijerph18168260
-  title: Excess Risk of COVID-19 to University Populations Resulting from In-Person
-    Sporting Events
-  authors:
-  - Stephanie S. Johnson
-  - Katelin C. Jackson
-  - Matthew S. Mietchen
-  - Samir Sbai
-  - Elissa J. Schwartz
-  - Eric T. Lofgren
-  publisher: International Journal of Environmental Research and Public Health
-  date: '2021-08-04'
-  link: https://doi.org/gtszwz
-  type: paper
-  group: featured
-  image: images/sporting_sir.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1001/jamanetworkopen.2022.40142
   title: Revisiting the Question of Fan Attendance at Professional Sporting Events
   authors:
@@ -1236,21 +1587,6 @@
   type: paper
   group: featured
   image: images/JAMA-network.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2024.01.10.24301116
-  title: 'Unexpected Transmission Dynamics in a University Town: Lessons from COVID-19'
-  authors:
-  - Erin Clancey
-  - Matthew S. Mietchen
-  - Corrin McMichael
-  - Eric T. Lofgren
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-01-11'
-  link: https://doi.org/gtszw3
-  type: paper
-  group: featured
-  image: images/college_transmission.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/haschl/qxaf045
