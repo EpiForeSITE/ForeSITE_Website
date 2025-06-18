@@ -1,7 +1,6 @@
 ---
 name: Tingying He
-image: images/tingying.png
+image: images/tingying-profile.png
 role: comp
 ---
- 
-Tingying is a Research Scientist in the Visualization Design Lab at the SCI Institute, University of Utah. She received her Ph.D. in Computer Science from Université Paris-Saclay, where she worked in the AVIZ team at Inria. She holds master's degrees in Human-Computer Interaction and Design from both Université Paris-Saclay and KTH Royal Institute of Technology, as well as a bachelor's degree in Architecture from Tongji University. Her research focuses on information visualization, accessibility, and evaluation methods.
+ Tingying is a research scientist at the SCI Institute, University of Utah. Her research focuses on information visualization, with a particular interest in designing and developing accessible visualizations. In her free time, she enjosy walking through cities, exploring cultural heritage, and writing in her journal.
