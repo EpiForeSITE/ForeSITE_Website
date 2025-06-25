@@ -50,6 +50,14 @@ pm:
   icon: fa-solid fa-check-square
   description: 
 
+sme:
+  icon: fa-solid fa-disease
+  description:   
+
+comp:
+  icon: fa-solid fa-desktop
+  description: 
+
 # general
 
 link:
