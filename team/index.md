@@ -13,7 +13,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 ## {% include icon.html icon="fa-solid fa-users" %}Analytical Modeling Team
-The analytical modeling team is comprised of members specializing in anomaly detection, parameter estimation, scenario modeling, and/or forecasting.
 
 {% include section.html %}
 
