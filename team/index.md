@@ -75,9 +75,11 @@ The analytical modeling team is comprised of members specializing in anomaly det
 {% capture content %}
 
 {% include figure.html image="images/Samore_CDC.png" %}
-{% include figure.html image="images/Collingwood_CFA.png" %}
 {% include figure.html image="images/CFA group.png" %}
 {% include figure.html image="images/Richpresents.jpeg" %}
+{% include figure.html image="images/panel.jpeg" %}
+{% include figure.html image="images/Collingwood_CFA.png" %}
+{% include figure.html image="images/peace.jpg" %}
 
 
 {% endcapture %}
