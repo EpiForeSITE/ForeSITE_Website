@@ -13,10 +13,9 @@ ForeSITE is a CDC Center for Integration in the Center for Forecasting and Outbr
 {% capture text %}
 
 ForeSITE is one of 13 [Insight Net](https://insightnet.us/) centers across the U.S. improving the ability to understand, predict, prepare for, and respond to infectious disease emergencies. ForeSITE serves as an Integration Center driven to adapt analytic tools for use in real-word settings. 
-
 {% endcapture %}
 
-{% include feature.html image="images/CFAVisit.jpeg" title="CFA Insight Net" text=text %}
+{% include feature.html image="images/INMap" title="CFA Insight Net" text=text %}
 
 {% capture text %}
 
@@ -26,7 +25,7 @@ ForeSITE represents one of five Insight Net Integrators. As a center of integrat
 
 {%
   include feature.html
-  image="images/integration_plan.png"
+  image="images/CFA group.png"
   title="Our Role as Integrators"
   text=text
   flip=true
