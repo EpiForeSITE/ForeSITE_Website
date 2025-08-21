@@ -68,6 +68,9 @@
   group: featured
   image: images/NSfigure.png
 
-  
+- id: doi:10.3390/ijerph22081301
+  type: paper
+  group: featured
+  image: images/ijerph.png
 
 
