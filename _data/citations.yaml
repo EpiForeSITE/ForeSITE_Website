@@ -1625,3 +1625,22 @@
   image: images/NSfigure.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3390/ijerph22081301
+  title: 'Assessing Public Health Capacity for Infectious Disease Modeling: A Qualitative
+    Study of State and Local Agencies'
+  authors:
+  - Skyler J. Crouch
+  - Katie S. Allen
+  - Delaney Thornton
+  - Joel Hartsell
+  - Elizabeth H. Weybright
+  - Julia E. Szymczak
+  - Kimberley I. Shoaf
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2025-08-20'
+  link: https://doi.org/g9xs9m
+  type: paper
+  group: featured
+  image: images/ijerph.png
+  plugin: sources.py
+  file: sources.yaml
