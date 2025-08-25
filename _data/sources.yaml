@@ -63,14 +63,14 @@
   group: featured
   image: images/HAS.png
 
-- id: doi:10.1371/journal.pone.0308244
-  type: paper
-  group: featured
-  image: images/NSfigure.png
-
 - id: doi:10.3390/ijerph22081301
   type: paper
   group: featured
   image: images/ijerph.png
+
+- id: doi:10.1371/journal.pone.0308244
+  type: paper
+  group: featured
+  image: images/NSfigure.png
 
 
