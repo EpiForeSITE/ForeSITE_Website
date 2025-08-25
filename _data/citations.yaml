@@ -1609,22 +1609,6 @@
   image: images/HAS.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1371/journal.pone.0308244
-  title: What drives the effectiveness of social distancing in combating COVID-19
-    across U.S. states?
-  authors:
-  - Mu-Jeung Yang
-  - Maclean Gaulin
-  - Nathan Seegert
-  - Yang Fan
-  publisher: PLOS One
-  date: '2025-05-12'
-  link: https://doi.org/g9qxmx
-  type: paper
-  group: featured
-  image: images/NSfigure.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.3390/ijerph22081301
   title: 'Assessing Public Health Capacity for Infectious Disease Modeling: A Qualitative
     Study of State and Local Agencies'
@@ -1642,5 +1626,21 @@
   type: paper
   group: featured
   image: images/ijerph.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0308244
+  title: What drives the effectiveness of social distancing in combating COVID-19
+    across U.S. states?
+  authors:
+  - Mu-Jeung Yang
+  - Maclean Gaulin
+  - Nathan Seegert
+  - Yang Fan
+  publisher: PLOS One
+  date: '2025-05-12'
+  link: https://doi.org/g9qxmx
+  type: paper
+  group: featured
+  image: images/NSfigure.png
   plugin: sources.py
   file: sources.yaml
