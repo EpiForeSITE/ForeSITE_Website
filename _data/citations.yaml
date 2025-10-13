@@ -1077,6 +1077,23 @@
   orcid: 0000-0002-8526-3007
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s40615-025-02638-9
+  title: Food Insecurity and Chronic Disease Among Native Hawaiians and Pacific Islanders
+    on the Continent During COVID-19
+  authors:
+  - Marla Alohilani Tam-Hoy Barhoum
+  - Maddy Rantala
+  - Meghan Lindell
+  - Pearl McElfish
+  - Eric Lofgren
+  - Denise Dillard
+  - Erin Renee Morgan
+  publisher: Journal of Racial and Ethnic Health Disparities
+  date: '2025-09-27'
+  link: https://doi.org/g948xd
+  orcid: 0000-0003-2052-7240
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1515/em-2024-0020
   title: Time-varying reproductive number estimation for practical application in
     structured populations
