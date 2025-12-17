@@ -63,7 +63,7 @@
   group: featured
   image: images/HAS.png
 
-  - id: doi:10.1001/jamanetworkopen.2025.22779
+- id: doi:10.1001/jamanetworkopen.2025.22779
   type: paper
   group: featured
   image: images/RSV.png
@@ -78,4 +78,17 @@
   group: featured
   image: images/NSfigure.png
 
+- id: doi:10.1007/s11538-025-01432-2
+  type: paper
+  group: featured
+  image: images/
 
+- id: doi:10.1515/em-2024-0020
+  type: paper
+  group: featured
+  image: images/
+
+- id: doi:10.1371/journal.pcbi.1013577
+  type: paper
+  group: featured
+  image: images/
