@@ -19,7 +19,7 @@
   file: sources.yaml
   type: paper
   group: featured
-  image: images/
+  image: images/abx_frame.png
 - id: doi:10.1017/ash.2024.485
   title: Association between social activities and risk of COVID-19 in a cohort of
     healthcare personnel
@@ -1111,7 +1111,7 @@
   file: sources.yaml
   type: paper
   group: featured
-  image: images/
+  image: images/clancy_figure.png
 - id: doi:10.1145/3698587.3701340
   title: A Multi-task Learning Approach for Predicting Spatio-temporal Patient Variables
   authors:
@@ -1698,6 +1698,6 @@
   link: https://doi.org/hbf2rv
   type: paper
   group: featured
-  image: images/
+  image: images/plos.png
   plugin: sources.py
   file: sources.yaml
