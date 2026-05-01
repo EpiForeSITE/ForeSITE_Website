@@ -51,7 +51,7 @@
   authors:
   - "Tierney O\u2019Sullivan"
   - Lindsay T. Keegan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-12-20'
   link: https://doi.org/g8xbds
   orcid: 0000-0002-8526-3007
@@ -67,7 +67,7 @@
   - Andrew S. Azman
   - Daniel T. Leung
   - Lindsay T. Keegan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-11-05'
   link: https://doi.org/g8qmqh
   orcid: 0000-0002-8526-3007
@@ -96,7 +96,7 @@
   - Valerie M. Vaughn
   - Frederick R. Adler
   - Lindsay T. Keegan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-08-28'
   link: https://doi.org/g754qb
   orcid: 0000-0002-8526-3007
@@ -130,7 +130,7 @@
   - Jay Love
   - Lindsay T. Keegan
   - Matthew H. Samore
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-04-19'
   link: https://doi.org/g754qc
   orcid: 0000-0002-8526-3007
@@ -143,7 +143,7 @@
   - Alicia C. Horn
   - Holly E. Shoemaker
   - Lindsay T. Keegan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-11-13'
   link: https://doi.org/gs4qrw
   orcid: 0000-0002-8526-3007
@@ -482,7 +482,7 @@
   - Michael A Johansson
   - Matthew Biggerstaff
   - Nicholas G Reich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-02-05'
   link: https://doi.org/gs4m2v
   orcid: 0000-0002-8526-3007
@@ -511,7 +511,7 @@
   - Nutcha Wattanchit
   - Martha W Zorn
   - Nicholas G Reich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-11-04'
   link: https://doi.org/gs4m24
   orcid: 0000-0002-8526-3007
@@ -537,7 +537,7 @@
   - Adam C. Levine
   - Andrew T. Pavia
   - Daniel T. Leung
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-10-27'
   link: https://doi.org/gs4m27
   orcid: 0000-0002-8526-3007
@@ -613,7 +613,7 @@
   - Charles K. Cooper
   - Matthew H. Samore
   - Lindsay T. Keegan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-06-06'
   link: https://doi.org/gk7cxb
   orcid: 0000-0002-8526-3007
@@ -631,7 +631,7 @@
   - David L. Swerdlow
   - Matthew H. Samore
   - Damon J.A. Toth
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-01-06'
   link: https://doi.org/gs4m2s
   orcid: 0000-0002-8526-3007
@@ -854,7 +854,7 @@
   - Lindsay T. Keegan
   - Matthew J. Ferrari
   - Daniel T. Leung
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-07-08'
   link: https://doi.org/gg5xbs
   orcid: 0000-0002-8526-3007
@@ -873,7 +873,7 @@
   - Michelle G. Hofmann
   - Matthew H. Samore
   - Lindsay T. Keegan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-06-13'
   link: https://doi.org/gs4m25
   orcid: 0000-0002-8526-3007
@@ -889,7 +889,7 @@
   - Lindsay T Keegan
   - Qiu Yuqing
   - Matthew H Samore
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-05-13'
   link: https://doi.org/gs4m26
   orcid: 0000-0002-8526-3007
@@ -937,7 +937,7 @@
   - Matthew Biggerstaff
   - Michael A Johansson
   - Nicholas G Reich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-08-22'
   link: https://doi.org/gg9hz6
   orcid: 0000-0002-8526-3007
@@ -975,7 +975,7 @@
   - Pawinee Doung-ngern
   - Sopon Iamsirithaworn
   - Justin Lessler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-11-27'
   link: https://doi.org/gs4m3b
   orcid: 0000-0002-8526-3007
@@ -1005,7 +1005,7 @@
   - Lindsay T. Keegan
   - C. Jessica E. Metcalf
   - Justin Lessler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-10-26'
   link: https://doi.org/gk2qhm
   orcid: 0000-0002-8526-3007
@@ -1080,6 +1080,2854 @@
   orcid: 0000-0002-8526-3007
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/cid/ciag273
+  title: Electronic Clinical Quality Measures of Antibiotic Use in Hospitalized Adults
+    with Uncomplicated Community-acquired Pneumonia
+  authors:
+  - Andrea T White
+  - Matthew Bidwell Goetz
+  - Makoto Jones
+  - Melinda M Neuhauser
+  - Claire Ciarkowski
+  - David Ratz
+  - Ashwin Gupta
+  - Lindsay A Petty
+  - Tejal N Gandhi
+  - Mingyuan Zhang
+  - Brittany Kent
+  - Chaorong Wu
+  - Jennifer K Horowitz
+  - Scott A Flanders
+  - Arjun Srinivasan
+  - Valerie M Vaughn
+  publisher: Clinical Infectious Diseases
+  date: '2026-04-21'
+  link: https://doi.org/hbz789
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/milmed/usag213
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/hbz79b
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ACR.70023
+  title: "<scp>COVID</scp>\n                    \u201019 Vaccination Is Not Associated\
+    \ With the Development of Idiopathic Inflammatory Myositis in\n              \
+    \      <scp>US</scp>\n                    Veterans"
+  authors:
+  - "Caleb Hern\xE1ndez"
+  - Naomi Schlesinger
+  - Jorge Rojas
+  - Jessica A. Walsh
+  - Tawnie J. Braaten
+  - Gary A. Kunkel
+  - Makoto Jones
+  - Brian C Sauer
+  - Julio Facelli
+  - Grant W. Cannon
+  - "Dorota Lebiedz\u2010Odrobina"
+  publisher: Arthritis Care &amp; Research
+  date: '2026-03-13'
+  link: https://doi.org/hbz79c
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIAF619
+  title: Using Generative Artificial Intelligence for Healthcare-Associated Infection
+    Surveillance
+  authors:
+  - Daniel J Morgan
+  - Katherine E Goodman
+  - Westyn Branch-Elliman
+  - Erica S Shenoy
+  - Jorge L Salinas
+  - Makoto Jones
+  - Sunny P Singh
+  - Gregory M Schrank
+  - Lisa Pineles
+  - Shatha AlShanqeeti
+  - Anthony D Harris
+  - Eili Klein
+  publisher: Clinical Infectious Diseases
+  date: '2025-11-12'
+  link: https://doi.org/hbz79d
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/HEQ.2024.0067
+  title: "COVID-19 Vaccine Rollout Strategies in Utah from Local Health Departments\u2019\
+    \ Perspectives: A Qualitative Analysis of Focus Group Discussions"
+  authors:
+  - Khanh N. C. Duong
+  - Sajesh K. Veettil
+  - Richard E. Nelson
+  - Barbara E. Jones
+  - Andrew T. Pavia
+  - Danielle T. Nguyen
+  - Makoto M. Jones
+  - Matthew H. Samore
+  - Susan L. Zickmund
+  - Patrick Galyean
+  - Nathorn Chaiyakunapruk
+  publisher: Health Equity
+  date: '2025-01-13'
+  link: https://doi.org/hbz79f
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/MLR.0000000000002145
+  title: Combining Machine Learning and Comparative Effectiveness Methodology to Study
+    Primary Care Pharmacotherapy Pathways for Veterans With Depression
+  authors:
+  - Ozgur Ozmen
+  - Everett Rush
+  - Byung H. Park
+  - Makoto Jones
+  - Jodie Trafton
+  - Lisa Brenner
+  - Randall W. Rupper
+  - Merry Ward
+  - Jonathan R. Nebeker
+  - Steven D. Pizer
+  publisher: Medical Care
+  date: '2025-04-22'
+  link: https://doi.org/hbz79g
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FRHS.2025.1566454
+  title: 'Standard vs. enhanced implementation strategies to increase adoption of
+    a multidrug-resistant organism alert tool: a cluster randomized trial'
+  authors:
+  - Cara Ray
+  - Cassie Goedken
+  - Ashley M. Hughes
+  - Geneva M. Wilson
+  - Natalie R. Hicks
+  - Margaret A. Fitzpatrick
+  - Makoto M. Jones
+  - Christopher Pfeiffer
+  - James Stacey Klutts
+  - Martin E. Evans
+  - Katie Joy Suda
+  - Charlesnika T. Evans
+  publisher: Frontiers in Health Services
+  date: '2025-09-18'
+  link: https://doi.org/hbz79h
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/SHTI231236
+  title: A Linguistic Analysis Examining the Impact of COVID-19 on Pneumonia Diagnosis
+    and Disease Models
+  authors:
+  - Alec B. Chapman
+  - Kelly S. Peterson
+  - Elizabeth Rutter
+  - Mckenna Nevers
+  - Jian Ying
+  - David Classen
+  - Makoto Jones
+  - Matthew Samore
+  - Barbara Jones
+  publisher: Studies in Health Technology and Informatics
+  date: '2024-01-25'
+  link: https://doi.org/hbz79j
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ASH.2024.404
+  title: A cross-sectional survey of Department of Veterans Affairs laboratory practices
+    for identification of carbapenem-resistant <i>Acinetobacter baumannii</i> and
+    <i>Pseudomonas aeruginosa</i>
+  authors:
+  - Aubrey M. Sawyer
+  - Cara Ray
+  - J. Stacey Klutts
+  - Margaret Fitzpatrick
+  - Katie J. Suda
+  - Natalie Hicks
+  - Martin Evans
+  - Makoto Jones
+  - Christopher D. Pfeiffer
+  - Charlesnika T. Evans
+  publisher: Antimicrobial Stewardship &amp; Healthcare Epidemiology
+  date: '2024-01-01'
+  link: https://doi.org/hbz79k
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12911-024-02469-4
+  title: A framework for inferring and analyzing pharmacotherapy treatment patterns
+  authors:
+  - Everett Rush
+  - Ozgur Ozmen
+  - Minsu Kim
+  - Erin Rush Ortegon
+  - Makoto Jones
+  - Byung H. Park
+  - Steven Pizer
+  - Jodie Trafton
+  - Lisa A. Brenner
+  - Merry Ward
+  - Jonathan R. Nebeker
+  publisher: BMC Medical Informatics and Decision Making
+  date: '2024-03-08'
+  link: https://doi.org/gtwq9d
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001277006600014
+  title: ASSESSMENT OF THE EFFECTS OF AN EQUITY-TARGETED VACCINATION OUTREACH PROGRAM
+    ON OVERALL AND DISTRIBUTIONAL HEALTH AND ECONOMIC OUTCOMES
+  authors: []
+  publisher: VALUE IN HEALTH
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001277006600014
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PDIG.0000528
+  title: Automating detection of diagnostic error of infectious diseases using machine
+    learning
+  authors:
+  - Kelly S. Peterson
+  - Alec B. Chapman
+  - Wathsala Widanagamaachchi
+  - Jesse Sutton
+  - Brennan Ochoa
+  - Barbara E. Jones
+  - Vanessa Stevens
+  - David C. Classen
+  - Makoto M. Jones
+  publisher: PLOS Digital Health
+  date: '2024-06-07'
+  link: https://doi.org/hbz79m
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2024.79
+  title: Development and implementation of a nationwide multidrug-resistant organism
+    tracking and alert system for Veterans Affairs medical centers
+  authors:
+  - Christopher D. Pfeiffer
+  - Makoto M. Jones
+  - James S. Klutts
+  - Quinn A. Francis
+  - Hannah M. Flegal
+  - Adrienne O. Murray
+  - Tina M. Willson
+  - Natalie R. Hicks
+  - Charlesnika T. Evans
+  - Martin E. Evans
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2024-05-24'
+  link: https://doi.org/hbz79n
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7326/M23-2505
+  title: Diagnostic Discordance, Uncertainty, and Treatment Ambiguity in Community-Acquired
+    Pneumonia
+  authors:
+  - Barbara E. Jones
+  - Alec B. Chapman
+  - Jian Ying
+  - Elizabeth D. Rutter
+  - McKenna R. Nevers
+  - Alden Baker
+  - Nathan C. Dean
+  - Megan L. Fix
+  - Hardeep Singh
+  - Karen S. Cosby
+  - Peter A. Taber
+  - Charlene D. Weir
+  - Makoto M. Jones
+  - Matthew H. Samore
+  - Jorie M. Butler
+  publisher: Annals of Internal Medicine
+  date: '2024-09-01'
+  link: https://doi.org/hbz79p
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ASH.2024.36
+  title: Facility- and patient-level factors associated with implementation of contact
+    precautions in hospitalized VA patients with positive CRE cultures
+  authors:
+  - Geneva M. Wilson
+  - Margaret Fitzpatrick
+  - Katie J. Suda
+  - Linda Poggensee
+  - Makoto Jones
+  - Martin E. Evans
+  - Charlesnika T. Evans
+  publisher: Antimicrobial Stewardship &amp; Healthcare Epidemiology
+  date: '2024-01-01'
+  link: https://doi.org/hbz79q
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001277006601355
+  title: 'INCORPORATING SOCIAL DETERMINANTS OF HEALTH INTO TRANSMISSION MODELING OF
+    COVID-19 VACCINE IN THE US: A SCOPING REVIEW'
+  authors: []
+  publisher: VALUE IN HEALTH
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001277006601355
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1513/ANNALSATS.202306-505OC
+  title: Impact of Reducing Time-to-Antibiotics on Sepsis Mortality, Antibiotic Use,
+    and Adverse Events
+  authors:
+  - John P. Donnelly
+  - Sarah M. Seelye
+  - Patricia Kipnis
+  - Brenda M. McGrath
+  - Theodore J. Iwashyna
+  - Jason Pogue
+  - Makoto Jones
+  - Vincent X. Liu
+  - Hallie C. Prescott
+  publisher: Annals of the American Thoracic Society
+  date: '2024-01-01'
+  link: https://doi.org/hbz79r
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.LANA.2024.100806
+  title: 'Incorporating social determinants of health into transmission modeling of
+    COVID-19 vaccine in the US: a scoping review'
+  authors:
+  - Khanh N.C. Duong
+  - Danielle T. Nguyen
+  - Warittakorn Kategeaw
+  - Xi Liang
+  - Win Khaing
+  - Lindsay D. Visnovsky
+  - Sajesh K. Veettil
+  - Mary M. McFarland
+  - Richard E. Nelson
+  - Barbara E. Jones
+  - Andrew T. Pavia
+  - Emma Coates
+  - Karim Khader
+  - Jay Love
+  - George G. Vega Yon
+  - Yue Zhang
+  - Tina Willson
+  - Egenia Dorsan
+  - Damon J.A. Toth
+  - Makoto M. Jones
+  - Matthew H. Samore
+  - Nathorn Chaiyakunapruk
+  publisher: The Lancet Regional Health - Americas
+  date: '2024-07-01'
+  link: https://doi.org/hbz79s
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAMIA/OCAE112
+  title: "Pneumonia diagnosis performance in the emergency department: a mixed-methods\
+    \ study about clinicians\u2019 experiences and exploration of individual differences\
+    \ and response to diagnostic performance feedback"
+  authors:
+  - Jorie M Butler
+  - Teresa Taft
+  - Peter Taber
+  - Elizabeth Rutter
+  - Megan Fix
+  - Alden Baker
+  - Charlene Weir
+  - McKenna Nevers
+  - David Classen
+  - Karen Cosby
+  - Makoto Jones
+  - Alec Chapman
+  - Barbara E Jones
+  publisher: Journal of the American Medical Informatics Association
+  date: '2024-05-25'
+  link: https://doi.org/hbz79t
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2024.6
+  title: "Research agenda for antibiotic stewardship within the Veterans\u2019 Health\
+    \ Administration, 2024\u20132028"
+  authors:
+  - Daniel J. Livorsi
+  - Westyn Branch-Elliman
+  - Dimitri Drekonja
+  - Kelly L. Echevarria
+  - Margaret A. Fitzpatrick
+  - Matthew Bidwell Goetz
+  - Christopher J. Graber
+  - Makoto M. Jones
+  - Allison A. Kelly
+  - Karl Madaras-Kelly
+  - Daniel J. Morgan
+  - Vanessa W. Stevens
+  - Katie Suda
+  - Barbara W. Trautner
+  - Michael J. Ward
+  - Robin L.P. Jump
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2024-02-02'
+  link: https://doi.org/hbz79v
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001331419108150
+  title: The Risk for Development of Myositis Is Not Increased After COVID-19 Vaccination
+    Among US Veterans
+  authors: []
+  publisher: ARTHRITIS & RHEUMATOLOGY
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001331419108150
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIAD388
+  title: Active Surveillance and Contact Precautions for Preventing Methicillin-Resistant
+    <i>Staphylococcus aureus</i> Healthcare-Associated Infections During the COVID-19
+    Pandemic
+  authors:
+  - Martin E Evans
+  - Loretta A Simbartl
+  - Brian P McCauley
+  - Linda K Flarida
+  - Makoto M Jones
+  - Anthony D Harris
+  - Eli N Perencevich
+  - Michael A Rubin
+  - Natalie R Hicks
+  - Stephen M Kralovic
+  - Gary A Roselle
+  publisher: Clinical Infectious Diseases
+  date: '2023-06-30'
+  link: https://doi.org/hbz79w
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001031473300069
+  title: 'DISPARITIES IN COVID-19 RELATED OUTCOMES IN THE UNITED STATES BY RACE AND
+    ETHNICITY: AN UMBRELLA REVIEW OF META-ANALYSES'
+  authors: []
+  publisher: VALUE IN HEALTH
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001031473300069
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/AJCP/AQAD044
+  title: Development and validation of a standardized blood culture contamination
+    definition and metric dashboard for a large health care system
+  authors:
+  - Jill A Hancock
+  - Sheldon Campbell
+  - Makoto M Jones
+  - Jessica Wang-Rodriguez
+  - Stacey Klutts
+  - Sheldon Campbell
+  - Theresa Weber
+  - Bonnie Greene
+  - Ruben Benitez Espinosa
+  - Cari Orth
+  - Lyndi Anderson
+  - Chasity Vigliotti
+  - Amy Frank
+  - Rosella Baraceros-Pineda
+  - Jeanna Donkle
+  - Tammy Cummings
+  - Laura Behrends
+  - Jennifer Young
+  - Shannon Krajcir
+  - Rachel Scholten
+  - J Stacey Klutts
+  publisher: American Journal of Clinical Pathology
+  date: '2023-05-11'
+  link: https://doi.org/hbz79x
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FPUBH.2023.1206988
+  title: 'Disparities in COVID-19 related outcomes in the United States by race and
+    ethnicity pre-vaccination era: an umbrella review of meta-analyses'
+  authors:
+  - Khanh N. C. Duong
+  - Lan M. Le
+  - Sajesh K. Veettil
+  - Pantakarn Saidoung
+  - Warintorn Wannaadisai
+  - Richard E. Nelson
+  - Mike Friedrichs
+  - Barbara E. Jones
+  - Andrew T. Pavia
+  - Makoto M. Jones
+  - Matthew H. Samore
+  - Nathorn Chaiyakunapruk
+  publisher: Frontiers in Public Health
+  date: '2023-09-07'
+  link: https://doi.org/hbz79z
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2022.93
+  title: Healthcare-associated infections in Veterans Affairs acute-care and long-term
+    healthcare facilities during the coronavirus disease 2019 (COVID-19) pandemic
+  authors:
+  - Martin E. Evans
+  - Loretta A. Simbartl
+  - Stephen M. Kralovic
+  - Marla Clifton
+  - Kathleen DeRoos
+  - Brian P. McCauley
+  - Natalie Gauldin
+  - Linda K. Flarida
+  - Shantini D. Gamage
+  - Makoto M. Jones
+  - Gary A. Roselle
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2022-04-05'
+  link: https://doi.org/gt582k
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2022.55
+  title: 'Hospital coronavirus disease 2019 (COVID-19) public health reporting: Lessons
+    from validation of an automated surveillance tool to facilitate data collection'
+  authors:
+  - Shantini D. Gamage
+  - Martin E. Evans
+  - Brian P. McCauley
+  - Karen R. Lipscomb
+  - Linda Flarida
+  - Makoto M. Jones
+  - Michael Baza
+  - Jeremy Barraza
+  - Loretta A. Simbartl
+  - Gary A. Roselle
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2022-03-30'
+  link: https://doi.org/hbz792
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2022.281
+  title: "Lack of correlation between standardized antimicrobial administration ratios\
+    \ (SAARs) and healthcare-facility\u2013onset <i>Clostridioides difficile</i> infection\
+    \ rates in Veterans Affairs medical facilities"
+  authors:
+  - Martin E. Evans
+  - Makoto M. Jones
+  - Kelly W. Davis
+  - Matthew T. Lane
+  - Loretta A. Simbartl
+  - Brian P. McCauley
+  - Natalie Gauldin
+  - Gary A. Roselle
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2022-12-01'
+  link: https://doi.org/hbz793
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2022.100
+  title: "Performance of infectious diseases specialists, hospitalists, and other\
+    \ internal medicine physicians in antimicrobial case-based scenarios: Potential\
+    \ impact of antimicrobial stewardship programs at 16 Veterans\u2019 Affairs medical\
+    \ centers"
+  authors:
+  - Christopher J. Graber
+  - Alissa R. Simon
+  - Yue Zhang
+  - Matthew Bidwell Goetz
+  - Makoto M. Jones
+  - Jorie M. Butler
+  - Ann F. Chou
+  - Peter A. Glassman
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2022-05-04'
+  link: https://doi.org/hbz794
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ASH.2023.500
+  title: Treatment effectiveness of antibiotic therapy in Veterans with multidrug-resistant
+    <i>Acinetobacter spp.</i> bacteremia
+  authors:
+  - Amanda Vivo
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Geneva M. Wilson
+  - Makoto M. Jones
+  - Martin E. Evans
+  - Charlesnika T. Evans
+  publisher: Antimicrobial Stewardship &amp; Healthcare Epidemiology
+  date: '2023-01-01'
+  link: https://doi.org/hbz795
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JBI.2022.104178
+  title: A flexible framework for visualizing and exploring patient misdiagnosis over
+    time
+  authors:
+  - Wathsala Widanagamaachchi
+  - Kelly Peterson
+  - Alec Chapman
+  - David Classen
+  - Makoto Jones
+  publisher: Journal of Biomedical Informatics
+  date: '2022-10-01'
+  link: https://doi.org/hbz796
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.328
+  title: "A survey of infection control strategies for carbapenem-resistant <i>Enterobacteriaceae</i>\
+    \ in Department of Veterans\u2019 Affairs facilities"
+  authors:
+  - Swetha Ramanathan
+  - Katie J. Suda
+  - Margaret A. Fitzpatrick
+  - Marylou Guihan
+  - Cassie Cunningham Goedken
+  - Nasia Safdar
+  - Martin Evans
+  - Makoto Jones
+  - Christopher D. Pfeiffer
+  - Eli N. Perencevich
+  - Michael Rubin
+  - Charlesnika T. Evans
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-09-22'
+  link: https://doi.org/hbz797
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1475-6773.13931
+  title: Analysis of a national response to a White House directive for ending veteran
+    suicide
+  authors:
+  - Andrea F. Kalvesmaki
+  - Alec B. Chapman
+  - Kelly S. Peterson
+  - Mary Jo Pugh
+  - Makoto Jones
+  - Theresa C. Gleason
+  publisher: Health Services Research
+  date: '2022-03-03'
+  link: https://doi.org/hbz798
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JACAMR/DLAC106
+  title: Comparative effectiveness of antibiotic therapy for carbapenem-resistant
+    Enterobacterales (CRE) bloodstream infections in hospitalized US veterans
+  authors:
+  - Geneva M Wilson
+  - Margaret A Fitzpatrick
+  - Katie J Suda
+  - Bridget M Smith
+  - Beverly Gonzalez
+  - Makoto Jones
+  - Marin L Schweizer
+  - Martin Evans
+  - Charlesnika T Evans
+  publisher: JAC-Antimicrobial Resistance
+  date: '2022-09-05'
+  link: https://doi.org/hbz799
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.05.10.22274910
+  title: Development and evaluation of an interoperable natural language processing
+    system for identifying pneumonia across clinical settings of care
+  authors:
+  - Alec B Chapman
+  - Kelly S Peterson
+  - Elizabeth Rutter
+  - McKenna Nevers
+  - Mingyuan Zhang
+  - Jian Ying
+  - Makoto Jones
+  - David Classen
+  - Barbara Jones
+  publisher: openRxiv
+  date: '2022-05-10'
+  link: https://doi.org/hbz8bb
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAMIAOPEN/OOAC114
+  title: Development and evaluation of an interoperable natural language processing
+    system for identifying pneumonia across clinical settings of care and institutions
+  authors:
+  - Alec B Chapman
+  - Kelly S Peterson
+  - Elizabeth Rutter
+  - Mckenna Nevers
+  - Mingyuan Zhang
+  - Jian Ying
+  - Makoto Jones
+  - David Classen
+  - Barbara Jones
+  publisher: JAMIA Open
+  date: '2022-10-04'
+  link: https://doi.org/hbz8bc
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12879-022-07436-W
+  title: 'Epidemiology and outcomes associated with carbapenem-resistant Acinetobacter
+    baumannii and carbapenem-resistant Pseudomonas aeruginosa: a retrospective cohort
+    study'
+  authors:
+  - Amanda Vivo
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Makoto M. Jones
+  - Eli N. Perencevich
+  - Michael A. Rubin
+  - Swetha Ramanathan
+  - Geneva M. Wilson
+  - Martin E. Evans
+  - Charlesnika T. Evans
+  publisher: BMC Infectious Diseases
+  date: '2022-05-24'
+  link: https://doi.org/hbz8bd
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ASH.2021.220
+  title: "Increased carbapenemase testing following implementation of national\n \
+    \                   VA guidelines for carbapenem-resistant Enterobacterales (CRE)"
+  authors:
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Swetha Ramanathan
+  - Geneva Wilson
+  - Linda Poggensee
+  - Martin Evans
+  - Makoto M. Jones
+  - Christopher D. Pfeiffer
+  - J. Stacey Klutts
+  - Eli Perencevich
+  - Michael Rubin
+  - Charlesnika T. Evans
+  publisher: Antimicrobial Stewardship and Healthcare Epidemiology
+  date: '2022-01-01'
+  link: https://doi.org/hbz8bf
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/OFID/OFAC456
+  title: Infectious Disease Consults of <i>Pseudomonas aeruginosa</i> Bloodstream
+    Infection and Impact on Health Outcomes
+  authors:
+  - Swetha Ramanathan
+  - Fritzie S Albarillo
+  - Margaret A Fitzpatrick
+  - Katie J Suda
+  - Linda Poggensee
+  - Amanda Vivo
+  - Martin E Evans
+  - Makoto Jones
+  - Nasia Safdar
+  - Chris Pfeiffer
+  - Bridget Smith
+  - Geneva Wilson
+  - Charlesnika T Evans
+  publisher: Open Forum Infectious Diseases
+  date: '2022-09-01'
+  link: https://doi.org/hbz8bg
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIAB987
+  title: "Optimal Urine Culture Diagnostic Stewardship Practice\u2014Results from\
+    \ an Expert Modified-Delphi Procedure"
+  authors:
+  - Kimberly C Claeys
+  - Barbara W Trautner
+  - Surbhi Leekha
+  - K C Coffey
+  - Christopher J Crnich
+  - Dan J Diekema
+  - Mohamad G Fakih
+  - Matthew Bidwell Goetz
+  - Kalpana Gupta
+  - Makoto M Jones
+  - Luci Leykum
+  - Stephen Y Liang
+  - Lisa Pineles
+  - Ashley Pleiss
+  - Emily S Spivak
+  - Katie J Suda
+  - Jennifer M Taylor
+  - Chanu Rhee
+  - Daniel J Morgan
+  publisher: Clinical Infectious Diseases
+  date: '2021-11-29'
+  link: https://doi.org/hbz8bh
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ASH.2022.285
+  title: 'Outpatient treatment and clinical outcomes of bacteriuria in veterans: A
+    retrospective cohort analysis'
+  authors:
+  - Suzette A. Rovelsky
+  - Michelle Vu
+  - Alexis K. Barrett
+  - Kenneth Bukowski
+  - Xiangming Wei
+  - Muriel Burk
+  - Makoto Jones
+  - Kelly Echevarria
+  - Katie J Suda
+  - Francesca Cunningham
+  - Karl J Madaras-Kelly
+  publisher: Antimicrobial Stewardship &amp; Healthcare Epidemiology
+  date: '2022-01-01'
+  link: https://doi.org/hbz8bj
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.GIE.2022.04.018
+  title: 'Pre-endoscopy coronavirus disease 2019 screening and severe acute respiratory
+    syndrome coronavirus-2 nucleic acid amplification testing in the Veterans Affairs
+    healthcare system: clinical practice patterns, outcomes, and relationship to procedure
+    volume'
+  authors:
+  - Andrew J. Gawron
+  - Shahnaz Sultan
+  - Thomas J. Glorioso
+  - Sophia Califano
+  - Stephen M. Kralovic
+  - Makoto Jones
+  - Susan Kirsh
+  - Jason A. Dominitz
+  publisher: Gastrointestinal Endoscopy
+  date: '2022-09-01'
+  link: https://doi.org/hbz8bk
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/MD.0000000000030245
+  title: Quantifying the breadth of antibiotic exposure in sepsis and suspected infection
+    using spectrum scores
+  authors:
+  - Joshua T. Smith
+  - Raj N. Manickam
+  - Fernando Barreda
+  - John D. Greene
+  - Meghana Bhimarao
+  - Jason Pogue
+  - Makoto Jones
+  - Laura Myers
+  - Hallie C. Prescott
+  - Vincent X. Liu
+  publisher: Medicine
+  date: '2022-10-14'
+  link: https://doi.org/hbz8bm
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMAINTERNMED.2022.2291
+  title: Temporal Trends in Antimicrobial Prescribing During Hospitalization for Potential
+    Infection and Sepsis
+  authors:
+  - Hallie C. Prescott
+  - Sarah Seelye
+  - Xiao Qing Wang
+  - Cainnear K. Hogan
+  - Joshua T. Smith
+  - Patricia Kipnis
+  - Fernando Barreda
+  - John P. Donnelly
+  - Jason M. Pogue
+  - Theodore J. Iwashyna
+  - Makoto M. Jones
+  - Vincent X. Liu
+  publisher: JAMA Internal Medicine
+  date: '2022-08-01'
+  link: https://doi.org/gqd43x
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJIC.2022.01.011
+  title: Treatment of extensively-drug resistant (XDR) Acinetobacter and impact on
+    clinical outcomes in U.S. veterans affairs (VA) medical centers
+  authors:
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Linda Poggensee
+  - Amanda Vivo
+  - Geneva Wilson
+  - Makoto M. Jones
+  - Martin Evans
+  - Nasia Safdar
+  - Charlesnika T. Evans
+  publisher: American Journal of Infection Control
+  date: '2022-09-01'
+  link: https://doi.org/hbz8bn
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11606-022-07413-8
+  title: Trends in Illness Severity, Hospitalization, and Mortality for Community-Onset
+    Pneumonia at 118 US Veterans Affairs Medical Centers
+  authors:
+  - Barbara E. Jones
+  - Jian Ying
+  - Mckenna R Nevers
+  - Patrick R. Alba
+  - Olga V. Patterson
+  - Kelly S Peterson
+  - Elizabeth Rutter
+  - Matthew A Christensen
+  - Sarah Stern
+  - Makoto M Jones
+  - Adi Gundlapalli
+  - Nathan C Dean
+  - Matthew C Samore
+  - Tome Greene
+  publisher: Journal of General Internal Medicine
+  date: '2022-03-09'
+  link: https://doi.org/hbz8bp
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMANETWORKOPEN.2021.0971
+  title: Association Between Contact Precautions and Transmission of Methicillin-Resistant
+    <i>Staphylococcus aureus</i> in Veterans Affairs Hospitals
+  authors:
+  - Karim Khader
+  - Alun Thomas
+  - Vanessa Stevens
+  - Lindsay Visnovsky
+  - McKenna Nevers
+  - Damon Toth
+  - Lindsay T. Keegan
+  - Makoto Jones
+  - Michael Rubin
+  - Matthew H. Samore
+  publisher: JAMA Network Open
+  date: '2021-03-15'
+  link: https://doi.org/gmx7wd
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIAA1582
+  title: Attributable Cost of Healthcare-Associated Methicillin-Resistant <i>Staphylococcus
+    aureus</i> Infection in a Long-term Care Center
+  authors:
+  - Richard E Nelson
+  - Ebbing Lautenbach
+  - Nelson Chang
+  - Makoto Jones
+  - Tina Willson
+  - Michael David
+  - Darren Linkin
+  - Henry Glick
+  - Jalpa A Doshi
+  - Vanessa W Stevens
+  publisher: Clinical Infectious Diseases
+  date: '2021-01-15'
+  link: https://doi.org/gh63j3
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/26719
+  title: 'Automated Travel History Extraction From Clinical Notes for Informing the
+    Detection of Emergent Infectious Disease Events: Algorithm Development and Validation'
+  authors:
+  - Kelly S Peterson
+  - Julia Lewis
+  - Olga V Patterson
+  - Alec B Chapman
+  - Daniel W Denhalter
+  - Patricia A Lye
+  - Vanessa W Stevens
+  - Shantini D Gamage
+  - Gary A Roselle
+  - Katherine S Wallace
+  - Makoto Jones
+  publisher: JMIR Public Health and Surveillance
+  date: '2021-03-24'
+  link: https://doi.org/hbz8bq
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.1323
+  title: "Carbapenem-resistant <i>Enterobacteriaceae</i> epidemiology in Veterans\u2019\
+    \ Affairs medical centers varies by facility characteristics"
+  authors:
+  - Marissa S. Wirth
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Geneva M. Wilson
+  - Swetha Ramanathan
+  - Martin E. Evans
+  - Makoto M. Jones
+  - Christopher D. Pfeiffer
+  - Charlesnika T. Evans
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-12-11'
+  link: https://doi.org/hbz8br
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1513/ANNALSATS.202011-1372OC
+  title: Computerized Mortality Prediction for Community-acquired Pneumonia at 117
+    Veterans Affairs Medical Centers
+  authors:
+  - Barbara E. Jones
+  - Jian Ying
+  - McKenna Nevers
+  - Patrick R. Alba
+  - Tao He
+  - Olga V. Patterson
+  - Makoto M. Jones
+  - Vanessa Stevens
+  - Jincheng Shen
+  - Jeffrey Humpherys
+  - Kelly S. Peterson
+  - Elizabeth D. Rutter
+  - Adi V. Gundlapalli
+  - Charlene R. Weir
+  - Nathan C. Dean
+  - Michael J. Fine
+  - Matthew C. Samore
+  - Tom H. Greene
+  publisher: Annals of the American Thoracic Society
+  date: '2021-07-01'
+  link: https://doi.org/hbz8bs
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIAA1591
+  title: Expanding an Economic Evaluation of the Veterans Affairs (VA) Methicillin-resistant<i>Staphylococcus
+    aureus</i>(MRSA) Prevention Initiative to Include Prevention of Infections From
+    Other Pathogens
+  authors:
+  - Richard E Nelson
+  - Michihiko Goto
+  - Matthew H Samore
+  - Makoto Jones
+  - Vanessa W Stevens
+  - Martin E Evans
+  - Marin L Schweizer
+  - Eli N Perencevich
+  - Michael A Rubin
+  publisher: Clinical Infectious Diseases
+  date: '2021-01-15'
+  link: https://doi.org/hbz8bt
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.1277
+  title: "Inpatient antibiotic utilization in the Veterans\u2019 Health Administration\
+    \ during the coronavirus disease 2019 (COVID-19) pandemic"
+  authors:
+  - Thomas D. Dieringer
+  - Daisuke Furukawa
+  - Christopher J. Graber
+  - Vanessa W. Stevens
+  - Makoto M. Jones
+  - Michael A. Rubin
+  - Matthew Bidwell Goetz
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-10-20'
+  link: https://doi.org/gpxxcz
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2147/CLEP.S335621
+  title: Positive Predictive Value of COVID-19 ICD-10 Diagnosis Codes Across Calendar
+    Time and Clinical Setting
+  authors:
+  - Kristine E Lynch
+  - Benjamin Viernes
+  - Elise Gatsby
+  - Scott L DuVall
+  - Barbara E Jones
+  - "Tam\xE1ra L Box"
+  - Craig Kreisler
+  - Makoto Jones
+  publisher: Clinical Epidemiology
+  date: '2021-10-01'
+  link: https://doi.org/gpcbw4
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JBI.2021.103903
+  title: 'ReHouSED: A novel measurement of Veteran housing stability using natural
+    language processing'
+  authors:
+  - Alec B Chapman
+  - Audrey Jones
+  - A Taylor Kelley
+  - Barbara Jones
+  - Lori Gawron
+  - Ann Elizabeth Montgomery
+  - Thomas Byrne
+  - Ying Suo
+  - James Cook
+  - Warren Pettey
+  - Kelly Peterson
+  - Makoto Jones
+  - Richard Nelson
+  publisher: Journal of Biomedical Informatics
+  date: '2021-10-01'
+  link: https://doi.org/gmq7rx
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIAB415
+  title: Risk Factors Associated With Carbapenemase-Producing Carbapenem-Resistant
+    Enterobacteriaceae Positive Cultures in a Cohort of US Veterans
+  authors:
+  - Geneva M Wilson
+  - Katie J Suda
+  - Margaret A Fitzpatrick
+  - Brian Bartle
+  - Christopher D Pfeiffer
+  - Makoto Jones
+  - Michael A Rubin
+  - Eli Perencevich
+  - Martin Evans
+  - Charlesnika T Evans
+  publisher: Clinical Infectious Diseases
+  date: '2021-05-11'
+  link: https://doi.org/gqbdb4
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIAA1604
+  title: 'Simulated Adoption of 2019 Community-Acquired Pneumonia Guidelines Across
+    114 Veterans Affairs Medical Centers: Estimated Impact on Culturing and Antibiotic
+    Selection in Hospitalized Patients'
+  authors:
+  - Matthew A Christensen
+  - McKenna Nevers
+  - Jian Ying
+  - Candace Haroldsen
+  - Vanessa Stevens
+  - Makoto M Jones
+  - Peter M Yarbrough
+  - Matthew Bidwell Goetz
+  - Marcos I Restrepo
+  - Karl Madaras-Kelly
+  - Matthew H Samore
+  - Barbara Ellen Jones
+  publisher: Clinical Infectious Diseases
+  date: '2021-01-15'
+  link: https://doi.org/gt58rf
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJIC.2021.01.015
+  title: 'Social dynamics of a population-level dashboard for antimicrobial stewardship:
+    A qualitative analysis'
+  authors:
+  - Peter Taber
+  - Charlene Weir
+  - Jorie M. Butler
+  - Christopher J. Graber
+  - Makoto M. Jones
+  - Karl Madaras-Kelly
+  - Yue Zhang
+  - Ann F. Chou
+  - Matthew H. Samore
+  - Matthew Bidwell Goetz
+  - Peter A. Glassman
+  publisher: American Journal of Infection Control
+  date: '2021-07-01'
+  link: https://doi.org/g38bxh
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMANETWORKOPEN.2021.23950
+  title: Temporal Trends and Hospital Variation in Time-to-Antibiotics Among Veterans
+    Hospitalized With Sepsis
+  authors:
+  - Max T. Wayne
+  - Sarah Seelye
+  - Daniel Molling
+  - Xiao Qing Wang
+  - John P. Donnelly
+  - Cainnear K. Hogan
+  - Makoto M. Jones
+  - Theodore J. Iwashyna
+  - Vincent X. Liu
+  - Hallie C. Prescott
+  publisher: JAMA Network Open
+  date: '2021-09-07'
+  link: https://doi.org/hbz8bv
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICHI52183.2021.00048
+  title: Topic-to-Topic Modeling for COVID-19 Mortality
+  authors:
+  - Jeffrey Humpherys
+  - Ahmad Halwani
+  - Barbara E Jones
+  - Makoto M Jones
+  - Matthew H Samore
+  - Sadiqa Mahmood
+  - Dale Sanders
+  publisher: 2021 IEEE 9th International Conference on Healthcare Informatics (ICHI)
+  date: '2021-08-01'
+  link: https://doi.org/hbz8bw
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.632
+  title: "Antimicrobial Stewardship Programs and Antibiotic Usage and Resistance in\
+    \ Department of Veterans\u2019 Affairs Medical Centers"
+  authors:
+  - Hope Palalay
+  - Allison Kelly
+  - Loretta Simbartl
+  - Shantini Gamage
+  - Makoto Jones
+  - Gary Roselle
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-10-01'
+  link: https://doi.org/hbz8bx
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.635
+  title: Appropriateness of Anti-MRSA Therapy in Hospitalized Patients With Suspected
+    Community-Onset Infections
+  authors:
+  - Sydney Springer
+  - Muriel Burk
+  - Kelly Echevarria
+  - Makoto Jones
+  - Matthew Goetz
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-10-01'
+  link: https://doi.org/hbz8bz
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000509275600050
+  title: CHANGES IN DIAGNOSIS FOR PNEUMONIA AT VA EMERGENCY DEPARTMENTS
+  authors: []
+  publisher: MEDICAL DECISION MAKING
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000509275600050
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CBMS49503.2020.00040
+  title: Characterizing Sub-Cohorts via Data Normalization and Representation Learning
+  authors:
+  - Everett Rush
+  - Ozgur Ozmen
+  - Kathryn Knight
+  - Byung Park
+  - Clifton Baker
+  - Makoto Jones
+  - Merry Ward
+  - Jonathan Nebeker
+  publisher: 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems
+    (CBMS)
+  date: '2020-07-01'
+  link: https://doi.org/hbz8b2
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CBMS49503.2020.00092
+  title: 'Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic
+    Heart Disease'
+  authors:
+  - Junghoon Chae
+  - Byung Hoon Park
+  - Makoto Jones
+  - Merry Ward
+  - Jonathan Nebeker
+  publisher: 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems
+    (CBMS)
+  date: '2020-07-01'
+  link: https://doi.org/gtwqhm
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIZ941
+  title: Decreases in Antimicrobial Use Associated With Multihospital Implementation
+    of Electronic Antimicrobial Stewardship Tools
+  authors:
+  - Christopher J Graber
+  - Makoto M Jones
+  - Matthew Bidwell Goetz
+  - Karl Madaras-Kelly
+  - Yue Zhang
+  - Jorie M Butler
+  - Charlene Weir
+  - Ann F Chou
+  - Sarah Y Youn
+  - Matthew H Samore
+  - Peter A Glassman
+  publisher: Clinical Infectious Diseases
+  date: '2019-11-01'
+  link: https://doi.org/g4h36v
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.473
+  title: Development of an Electronic Tool to Measure Daily Appropriateness of Inpatient
+    Antibacterial Use
+  authors:
+  - Vanessa Stevens
+  - Pamela Belperio
+  - Melinda Neuhauser
+  - Lauri Hicks
+  - McKenna Nevers
+  - Matthew Goetz
+  - Nai-Chung Chang
+  - Arjun Srinivasan
+  - Makoto Jones
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-10-01'
+  link: https://doi.org/hbz8b3
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMAINTERNMED.2019.7495
+  title: Empirical Anti-MRSA vs Standard Antibiotic Therapy and Risk of 30-Day Mortality
+    in Patients Hospitalized for Pneumonia
+  authors:
+  - Barbara Ellen Jones
+  - Jian Ying
+  - Vanessa Stevens
+  - Candace Haroldsen
+  - Tao He
+  - McKenna Nevers
+  - Matthew A. Christensen
+  - Richard E. Nelson
+  - Gregory J. Stoddard
+  - Brian C. Sauer
+  - Peter M. Yarbrough
+  - Makoto M. Jones
+  - Matthew Bidwell Goetz
+  - Tom Greene
+  - Matthew H. Samore
+  publisher: JAMA Internal Medicine
+  date: '2020-04-01'
+  link: https://doi.org/ghzt8h
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/OFID/OFZ554
+  title: 'Inpatient Management of Uncomplicated Skin and Soft Tissue Infections in
+    34 Veterans Affairs Medical Centers: A Medication Use Evaluation'
+  authors:
+  - Jesse D Sutton
+  - Ronald Carico
+  - Muriel Burk
+  - Makoto M Jones
+  - XiangMing Wei
+  - Melinda M Neuhauser
+  - Matthew Bidwell Goetz
+  - Kelly L Echevarria
+  - Emily S Spivak
+  - Francesca E Cunningham
+  - Tiffany Goolsby
+  - Lucy Witt
+  - Joseph Hong
+  - Patrick Landayan
+  - Katelyn Shatz
+  - Benjamin Pontefract
+  - Kaysie Murdock
+  - Jaime Gallegos-Salazar
+  - Judith Strymish
+  - Mei Chang
+  - Henry Poon
+  - Kirsten Vest
+  - Nicholas Tinsley
+  - Gregory Bockenstedt
+  - Darshan Patel
+  - John Message
+  - Gordon Ang
+  - Archana Banerjee
+  - Sarah Fry
+  - Michael Rose
+  - Jason Hiett
+  - Victoria Tate
+  - Ann Fisher
+  - Brian Kotansky
+  - Van Vu
+  - Sorabh Dhar
+  - Ryan Kuhn
+  - Sandra Willis
+  - Rachel Britt
+  - Mary Townsend
+  - Erica Little
+  - Lisa Williams
+  - Elizabeth Ficek
+  - Renae Tell
+  - Xuxuan Liu
+  - John Pasciak
+  - Ruth Iliuta
+  - Jessica Bennett
+  - Victoria Germinario
+  - Elizabeth Jacobs
+  - Justin Spivey
+  - Marty Vannoy
+  - Pamela Foral
+  - Christine Feller
+  - Hien Nguyen
+  - Shu Lu
+  - Tim Burns
+  - Paris Khan
+  - Marcus Kouma
+  - Deanna Buehrle
+  - Nicholas Ruzzi
+  - Kimberly MacKay
+  - Lisa Tran
+  - Jennifer Emberger
+  - Khine Sann
+  - Daniel Tassone
+  - Emily Spivak
+  - Jesse Sutton
+  - Sean Chow
+  - Ariel Ma
+  - Edmarielis Gonzalez-Gonzalez
+  - Hector Cintron
+  - Andrea Aylward
+  - K Taylor Daniel
+  - Jenna Welu
+  - Cameron Pickard
+  - Chelsea Sanchez
+  - Ashfaq Shafiq
+  - Danielle Skouby
+  - "Jill O\u2019Donnell"
+  - Michael Surdy
+  publisher: Open Forum Infectious Diseases
+  date: '2020-01-01'
+  link: https://doi.org/hbz8b4
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.897
+  title: Laboratory Testing, Diagnostic Coding, and Treatment for Electronic Identification
+    of <i>Clostridioides difficile</i> Infection
+  authors:
+  - Vanessa Stevens
+  - Andrea Benin
+  - Raymund Dantes
+  - Karim Khader
+  - Sean Nugent
+  - Julia Lewis
+  - Terrence Adam
+  - Rui Zhang
+  - Steven Fu
+  - Makoto Jones
+  - Daniel Pollock
+  - Steven Waisbren
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-10-01'
+  link: https://doi.org/hbz8b5
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41393-019-0393-Y
+  title: Multidrug-resistant gram-negative organisms and association with 1-year mortality,
+    readmission, and length of stay in Veterans with spinal cord injuries and disorders
+  authors:
+  - Swetha Ramanathan
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Stephen P. Burns
+  - Makoto M. Jones
+  - Sherri L. LaVela
+  - Charlesnika T. Evans
+  publisher: Spinal Cord
+  date: '2019-12-11'
+  link: https://doi.org/hbz8b6
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIZ1053
+  title: "Pneumonia and Electronic Health Records\u2014A Window Into Disease, A Mirror\
+    \ of Our Behavior, or Just Another Streetlight?"
+  authors:
+  - Barbara Ellen Jones
+  - Makoto Murakami Jones
+  publisher: Clinical Infectious Diseases
+  date: '2019-10-29'
+  link: https://doi.org/hbz8b7
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000556622802562
+  title: 'Potential Impact of 2019 Community Acquired Pneumonia Guidelines on Culturing
+    and Antibiotic Selection: An Analysis of 114 VA Medical Centers'
+  authors: []
+  publisher: AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000556622802562
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.1008
+  title: Risk Factors for Carbapenemase Producing-Carbapenem Resistant Enterobacteriaceae
+    in Those With CRE Positive Cultures
+  authors:
+  - Geneva Wilson
+  - Christopher Pfeiffer
+  - Margaret Fitzpatrick
+  - Katie Suda
+  - Brian Bartle
+  - Michael Rubin
+  - Eli Perencevich
+  - Charlesnika Evans
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-10-01'
+  link: https://doi.org/hbz8b8
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIZ871
+  title: Use of Oral Vancomycin for Clostridioides difficile Infection and the Risk
+    of Vancomycin-Resistant Enterococci
+  authors:
+  - Vanessa W Stevens
+  - Karim Khader
+  - Kelly Echevarria
+  - Richard E Nelson
+  - Yue Zhang
+  - Makoto Jones
+  - Tristan T Timbrook
+  - Matthew H Samore
+  - Michael A Rubin
+  publisher: Clinical Infectious Diseases
+  date: '2019-09-03'
+  link: https://doi.org/gjtwzt
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2020.8
+  title: Validation of the SHEA/IDSA severity criteria to predict poor outcomes among
+    inpatients and outpatients with <i>Clostridioides difficile</i> infection
+  authors:
+  - Vanessa W. Stevens
+  - Holly E. Shoemaker
+  - Makoto M. Jones
+  - Barbara E. Jones
+  - Richard E. Nelson
+  - Karim Khader
+  - Matthew H. Samore
+  - Michael A. Rubin
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2020-01-30'
+  link: https://doi.org/hbz8b9
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15585/MMWR.MM6809E2
+  title: "<i>Vital Signs</i>: Trends in <i>Staphylococcus aureus</i> Infections in\
+    \ Veterans Affairs Medical Centers \u2014 United States, 2005\u20132017"
+  authors:
+  - Makoto Jones
+  - John A. Jernigan
+  - Martin E. Evans
+  - Gary A. Roselle
+  - Kelly M. Hatfield
+  - Matthew H. Samore
+  publisher: MMWR. Morbidity and Mortality Weekly Report
+  date: '2019-03-08'
+  link: https://doi.org/hbz8cb
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000466771105352
+  title: Benefit Versus Harm of Empiric Anti-MRSA Therapy in Hospitalized Patients
+    with Pneumonia
+  authors: []
+  publisher: AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000466771105352
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJIC.2018.08.001
+  title: Effect of varying federal definitions on prevalence and characteristics associated
+    with carbapenem-resistant Enterobacteriaceae in veterans with spinal cord injury
+  authors:
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Makoto M. Jones
+  - Stephen P. Burns
+  - Linda Poggensee
+  - Swetha Ramanathan
+  - Martin Evans
+  - Charlesnika T. Evans
+  publisher: American Journal of Infection Control
+  date: '2019-02-01'
+  link: https://doi.org/g73vdf
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2019.16
+  title: 'Evaluation of uncomplicated acute respiratory tract infection management
+    in veterans: A national utilization review'
+  authors:
+  - Jefferson G. Bohan
+  - Karl Madaras-Kelly
+  - Benjamin Pontefract
+  - Makoto Jones
+  - Melinda M. Neuhauser
+  - Matthew Bidwell Goetz
+  - Muriel Burk
+  - Francesca Cunningham
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2019-04-01'
+  link: https://doi.org/hbz8cc
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2019.24
+  title: Laboratory practices for identification and reporting of carbapenem-resistant
+    <i>Enterobacteriaceae</i> in Department of Veterans Affairs facilities
+  authors:
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Swetha Ramanathan
+  - Marylou Guihan
+  - Charnetta Brown
+  - Nasia Safdar
+  - Martin Evans
+  - Makoto M. Jones
+  - Christopher D. Pfeiffer
+  - J. Stacey Klutts
+  - Michael Icardi
+  - Eli Perencevich
+  - Michael Rubin
+  - Charlesnika T. Evans
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2019-03-04'
+  link: https://doi.org/hbz8cd
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIY507
+  title: Methicillin-resistant<i>Staphylococcus aureus</i>Colonization and Pre- and
+    Post-hospital Discharge Infection Risk
+  authors:
+  - Richard E Nelson
+  - Martin E Evans
+  - Loretta Simbartl
+  - Makoto Jones
+  - Matthew H Samore
+  - Stephen M Kralovic
+  - Gary A Roselle
+  - Michael A Rubin
+  publisher: Clinical Infectious Diseases
+  date: '2018-08-11'
+  link: https://doi.org/hbz8cf
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1513/ANNALSATS.201902-162OC
+  title: Potential Impact of Hospital-acquired Pneumonia Guidelines on Empiric Antibiotics.
+    An Evaluation of 113 Veterans Affairs Medical Centers
+  authors:
+  - A. Doran Bostwick
+  - Barbara E. Jones
+  - Robert Paine
+  - Matthew Bidwell Goetz
+  - Matthew Samore
+  - Makoto Jones
+  publisher: Annals of the American Thoracic Society
+  date: '2019-11-01'
+  link: https://doi.org/hbz8cg
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.EPIDEM.2019.100347
+  title: Variation and trends in transmission dynamics of Methicillin-resistant Staphylococcus
+    aureus in veterans affairs hospitals and nursing homes
+  authors:
+  - Karim Khader
+  - Alun Thomas
+  - Makoto Jones
+  - Damon Toth
+  - Vanessa Stevens
+  - Matthew H. Samore
+  publisher: Epidemics
+  date: '2019-09-01'
+  link: https://doi.org/gg3v5j
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000466771105353
+  title: Where's the Sweet Spot? Exploring the Impact of Varying Antibiogram Thresholds
+    to Guide Broad-Spectrum Antibiotic Use in Hospital Acquired Pneumonia
+  authors: []
+  publisher: AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000466771105353
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000449978902427
+  title: Antibiogram Directed Treatment for Hospital-Acquired Pneumonia Across All
+    Veterans Affairs Medical Centers
+  authors: []
+  publisher: AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000449978902427
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/AAC.00462-18
+  title: Attributable Cost and Length of Stay Associated with Nosocomial Gram-Negative
+    Bacterial Cultures
+  authors:
+  - Richard E. Nelson
+  - Vanessa W. Stevens
+  - Makoto Jones
+  - Karim Khader
+  - Marin L. Schweizer
+  - Eli N. Perencevich
+  - Michael A. Rubin
+  - Matthew H. Samore
+  publisher: Antimicrobial Agents and Chemotherapy
+  date: '2018-11-01'
+  link: https://doi.org/gfk8mc
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10790268.2017.1281373
+  title: Changes in bacterial epidemiology and antibiotic resistance among veterans
+    with spinal cord injury/disorder over the past 9 years
+  authors:
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Nasia Safdar
+  - Stephen P. Burns
+  - Makoto M. Jones
+  - Linda Poggensee
+  - Swetha Ramanathan
+  - Charlesnika T. Evans
+  publisher: The Journal of Spinal Cord Medicine
+  date: '2017-02-15'
+  link: https://doi.org/hbz8ch
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0197976
+  title: Epidemiology of nontuberculous mycobacterial infections in the U.S. Veterans
+    Health Administration
+  authors:
+  - Makoto M. Jones
+  - Kevin L. Winthrop
+  - Scott D. Nelson
+  - Scott L. Duvall
+  - Olga V. Patterson
+  - Kevin E. Nechodom
+  - Kimberly E. Findley
+  - Lewis J. Radonovich
+  - Matthew H. Samore
+  - Kevin P. Fennelly
+  publisher: PLOS ONE
+  date: '2018-06-13'
+  link: https://doi.org/gdp33w
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/IMAMMB/DQX010
+  title: 'Extended models for nosocomial infection: parameter estimation and model
+    selection'
+  authors:
+  - Alun Thomas
+  - Karim Khader
+  - Andrew Redd
+  - Molly Leecaster
+  - Yue Zhang
+  - Makoto Jones
+  - Tom Greene
+  - Matthew Samore
+  publisher: 'Mathematical Medicine and Biology: A Journal of the IMA'
+  date: '2017-10-12'
+  link: https://doi.org/hbz8cj
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/MLR.0000000000000916
+  title: In Data We Trust? Comparison of Electronic Versus Manual Abstraction of Antimicrobial
+    Prescribing Quality Metrics for Hospitalized Veterans With Pneumonia
+  authors:
+  - Barbara E. Jones
+  - Candace Haroldsen
+  - Karl Madaras-Kelly
+  - Matthew B. Goetz
+  - Jian Ying
+  - Brian Sauer
+  - Makoto M. Jones
+  - Molly Leecaster
+  - Tom Greene
+  - Scott K. Fridkin
+  - Melinda M. Neuhauser
+  - Matthew H. Samore
+  publisher: Medical Care
+  date: '2018-07-01'
+  link: https://doi.org/gdrd3w
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000449980300059
+  title: Practice Patterns for Hospital-Acquired Pneumonia at All Veterans Affairs
+    Medical Centers
+  authors: []
+  publisher: AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000449980300059
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S13012-018-0709-X
+  title: Protocol to disseminate a hospital-site controlled intervention using audit
+    and feedback to implement guidelines concerning inappropriate treatment of asymptomatic
+    bacteriuria
+  authors:
+  - Barbara W. Trautner
+  - Pooja Prasad
+  - Larissa Grigoryan
+  - Sylvia J. Hysong
+  - Jennifer R. Kramer
+  - Suja Rajan
+  - Nancy J. Petersen
+  - Tracey Rosen
+  - Dimitri M. Drekonja
+  - Christopher Graber
+  - Payal Patel
+  - Paola Lichtenberger
+  - Timothy P. Gauthier
+  - Steve Wiseman
+  - Makoto Jones
+  - Anne Sales
+  - Sarah Krein
+  - Aanand Dinkar Naik
+  publisher: Implementation Science
+  date: '2018-01-19'
+  link: https://doi.org/gcwdb2
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2017.299
+  title: Research Agenda for Antimicrobial Stewardship in the Veterans Health Administration
+  authors:
+  - Katie J. Suda
+  - Daniel J. Livorsi
+  - Michihiko Goto
+  - Graeme N. Forrest
+  - Makoto M. Jones
+  - Melinda M. Neuhauser
+  - Brian M. Hoff
+  - Dilek Ince
+  - Margaret Carrel
+  - Rajeshwari Nair
+  - Mary Jo Knobloch
+  - Matthew B. Goetz
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2018-02-01'
+  link: https://doi.org/hbz8ck
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAC/DKY207
+  title: 'Specifying an implementation framework for Veterans Affairs antimicrobial
+    stewardship programmes: using a factor analysis approach'
+  authors:
+  - Ann F Chou
+  - Christopher J Graber
+  - Yue Zhang
+  - Makoto Jones
+  - Matthew Bidwell Goetz
+  - Karl Madaras-Kelly
+  - Matthew Samore
+  - Peter A Glassman
+  publisher: Journal of Antimicrobial Chemotherapy
+  date: '2018-06-04'
+  link: https://doi.org/gdnnch
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1475-6773.13063
+  title: "The Impact of Healthcare\u2010Associated Methicillin\u2010Resistant <i>Staphylococcus\
+    \ aureus</i> Infections on Postdischarge Health Care Costs and Utilization across\
+    \ Multiple Health Care Systems"
+  authors:
+  - Richard E. Nelson
+  - Makoto Jones
+  - "Chuan\u2010Fen Liu"
+  - Matthew H. Samore
+  - Martin E. Evans
+  - Vanessa W. Stevens
+  - Thomas Reese
+  - Michael A. Rubin
+  publisher: Health Services Research
+  date: '2018-10-09'
+  link: https://doi.org/gfpvpm
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2016.328
+  title: A Report of the Efforts of the Veterans Health Administration National Antimicrobial
+    Stewardship Initiative
+  authors:
+  - Allison A. Kelly
+  - Makoto M. Jones
+  - Kelly L. Echevarria
+  - Stephen M. Kralovic
+  - Matthew H. Samore
+  - Matthew B. Goetz
+  - Karl J. Madaras-Kelly
+  - Loretta A. Simbartl
+  - Anthony P. Morreale
+  - Melinda M. Neuhauser
+  - Gary A. Roselle
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2017-01-25'
+  link: https://doi.org/hbz8cm
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3201/EID2311.161214
+  title: "Antimicrobial Nonsusceptibility of Gram-Negative Bloodstream Isolates, Veterans\
+    \ Health Administration System, United States, 2003\u201320131"
+  authors:
+  - Michihiko Goto
+  - Jennifer S. McDanel
+  - Makoto M. Jones
+  - Daniel J. Livorsi
+  - Michael E. Ohl
+  - Brice F. Beck
+  - Kelly K. Richardson
+  - Bruce Alexander
+  - Eli N. Perencevich
+  publisher: Emerging Infectious Diseases
+  date: '2017-11-01'
+  link: https://doi.org/gcgc4p
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12788/JHM.2730
+  title: Association of Inpatient Antimicrobial Utilization Measures with Antimicrobial
+    Stewardship Activities and Facility Characteristics of Veterans Affairs Medical
+    Centers
+  authors:
+  - Christopher J. Graber
+  - Makoto M. Jones
+  - Ann F. Chou
+  - Yue Zhang
+  - Matthew Bidwell Goetz
+  - "Karl Madaras\u2010Kelly"
+  - Matthew H. Samore
+  - Peter A. Glassman
+  publisher: Journal of Hospital Medicine
+  date: '2017-05-01'
+  link: https://doi.org/f97jdw
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2017.83
+  title: Attributable Mortality of Healthcare-Associated Infections Due to Multidrug-Resistant
+    Gram-Negative Bacteria and Methicillin-Resistant <i>Staphylococcus Aureus</i>
+  authors:
+  - Richard E. Nelson
+  - Rachel B. Slayton
+  - Vanessa W. Stevens
+  - Makoto M. Jones
+  - Karim Khader
+  - Michael A. Rubin
+  - John A. Jernigan
+  - Matthew H. Samore
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2017-06-01'
+  link: https://doi.org/gbmrqw
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIX287
+  title: 'Comparative Effectiveness of Cefazolin Versus Nafcillin or Oxacillin for
+    Treatment of Methicillin-Susceptible Staphylococcus aureus Infections Complicated
+    by Bacteremia: A Nationwide Cohort Study'
+  authors:
+  - Jennifer S McDanel
+  - Mary-Claire Roghmann
+  - Eli N Perencevich
+  - Michael E Ohl
+  - Michihiko Goto
+  - Daniel J Livorsi
+  - Makoto Jones
+  - Justin P Albertson
+  - Rajeshwari Nair
+  - "Amy M J O\u2019Shea"
+  - Marin L Schweizer
+  publisher: Clinical Infectious Diseases
+  date: '2017-03-31'
+  link: https://doi.org/gbjwbv
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMAINTERNMED.2016.9045
+  title: Comparative Effectiveness of Vancomycin and Metronidazole for the Prevention
+    of Recurrence and Death in Patients With <i>Clostridium difficile</i> Infection
+  authors:
+  - Vanessa W. Stevens
+  - Richard E. Nelson
+  - Elyse M. Schwab-Daugherty
+  - Karim Khader
+  - Makoto M. Jones
+  - Kevin A. Brown
+  - Tom Greene
+  - Lindsay D. Croft
+  - Melinda Neuhauser
+  - Peter Glassman
+  - Matthew Bidwell Goetz
+  - Matthew H. Samore
+  - Michael A. Rubin
+  publisher: JAMA Internal Medicine
+  date: '2017-04-01'
+  link: https://doi.org/gfxvd4
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIX474
+  title: Management of Bacteriuria in Veterans Affairs Hospitals
+  authors:
+  - Emily S Spivak
+  - Muriel Burk
+  - Rongping Zhang
+  - Makoto M Jones
+  - Melinda M. Neuhauser
+  - Matthew Bidwell Goetz
+  - Francesca E Cunningham
+  - Jason Wright
+  - Scott Johns
+  - Ariel Ma
+  - Jonathan Casavant
+  - James A Haley
+  - Bryan Cartmell
+  - Jaela Dahl
+  - Amanda Mercurio
+  - Ashley Haake
+  - Cynthia Muthusi
+  - Jenny Phabmixay
+  - Edward Hines
+  - Alexander B Chew
+  - Ursula Patel
+  - Susan Duquaine
+  - Marcus Kuoma
+  - Norman Mang
+  - Andrea Aylward
+  - Jessica Harris
+  - "Jessica O\u2019Brien"
+  - Jessica Dietz
+  - Rebecca Curtin
+  - Ann Fisher
+  - Lauren Manganiello
+  - "Jill O\u2019Donnell"
+  - Michael Surdy
+  - Brianna Morabito
+  - Theresa Page
+  - Joseph Pardo
+  - Amanda McQuillan
+  - Danielle Clare
+  - Tessa Deyle
+  - Rita Bodine
+  - Evan Kuyrkendall
+  - Jamie Guyear
+  - Lauri Witt
+  - Deborah Hobbs
+  - Ashley Scott
+  - Marci Swanson
+  - Kimberly T MacKay
+  - Eileen Wilbur
+  - Phalyn Butler
+  - Patricia Orlando
+  - Emily S Spivak
+  - Joshua Arnold
+  - Erin Loesch
+  - Nicole Fioravanti
+  - Victoria Tate
+  - Carol Allred
+  - Jennifer Cole
+  - Michelle Walker
+  - Lisa Young
+  - James J Peters
+  - Troy D Kish
+  - Kelcey Noble
+  - Kirsten Woelfel
+  - Pamela Foral
+  - Mara Carrasquillo
+  - Timothy P Gauthier
+  publisher: Clinical Infectious Diseases
+  date: '2017-05-24'
+  link: https://doi.org/gbwc9s
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000405678200018
+  title: Outcomes Associated With Antimicrobial De-escalation of Treatment for Pneumonia
+    Within the Veterans Healthcare Administration
+  authors: []
+  publisher: OPEN FORUM INFECTIOUS DISEASES
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000405678200018
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2017.238
+  title: Prevalence and Factors Associated With Multidrug-Resistant Gram-Negative
+    Organisms in Patients With Spinal Cord Injury
+  authors:
+  - Charlesnika T. Evans
+  - Margaret A. Fitzpatrick
+  - Makoto M. Jones
+  - Stephen P. Burns
+  - Linda Poggensee
+  - Swetha Ramanathan
+  - Sherri L. LaVela
+  - Nasia Safdar
+  - Katie J. Suda
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2017-11-21'
+  link: https://doi.org/hbz8cn
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIX532
+  title: 'The Drivers of Acute and Long-term Care Clostridium difficile Infection
+    Rates: A Retrospective Multilevel Cohort Study of 251 Facilities'
+  authors:
+  - Kevin Antoine Brown
+  - Nick Daneman
+  - Makoto Jones
+  - Kevin Nechodom
+  - Vanessa Stevens
+  - Frederick R Adler
+  - Matthew Bidwell Goetz
+  - Jeanmarie Mayer
+  - Matthew Samore
+  publisher: Clinical Infectious Diseases
+  date: '2017-06-08'
+  link: https://doi.org/gcf527
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2017.98
+  title: Variation in Empiric Coverage Versus Detection of Methicillin-Resistant<i>Staphylococcus
+    aureus</i>and<i>Pseudomonas aeruginosa</i>in Hospitalizations for Community-Onset
+    Pneumonia Across 128 US Veterans Affairs Medical Centers
+  authors:
+  - Barbara E. Jones
+  - Kevin Antoine Brown
+  - Makoto M. Jones
+  - Benedikt D. Huttner
+  - Tom Greene
+  - Brian C. Sauer
+  - Karl Madaras-Kelly
+  - Michael A. Rubin
+  - Matthew Bidwell Goetz
+  - Matthew H. Samore
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2017-06-21'
+  link: https://doi.org/gt59gb
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0152248
+  title: An Economic Analysis of Strategies to Control Clostridium Difficile Transmission
+    and Infection Using an Agent-Based Simulation Model
+  authors:
+  - Richard E. Nelson
+  - Makoto Jones
+  - Molly Leecaster
+  - Matthew H. Samore
+  - William Ray
+  - Angela Huttner
+  - Benedikt Huttner
+  - Karim Khader
+  - Vanessa W. Stevens
+  - Dale Gerding
+  - Marin L. Schweizer
+  - Michael A. Rubin
+  publisher: PLOS ONE
+  date: '2016-03-31'
+  link: https://doi.org/f8ws8g
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAC/DKV338
+  title: Antimicrobial de-escalation of treatment for healthcare-associated pneumonia
+    within the Veterans Healthcare Administration
+  authors:
+  - Karl Madaras-Kelly
+  - Makoto Jones
+  - Richard Remington
+  - Christina M. Caplinger
+  - Benedikt Huttner
+  - Barbara Jones
+  - Matthew Samore
+  publisher: Journal of Antimicrobial Chemotherapy
+  date: '2015-11-03'
+  link: https://doi.org/f8n2pd
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICHI.2016.39
+  title: Big-Data Based Decision-Support Systems to Improve Clinicians' Cognition
+  authors:
+  - Don Roosan
+  - Matthew Samore
+  - Makoto Jones
+  - Yarden Livnat
+  - Justin Clutter
+  publisher: 2016 IEEE International Conference on Healthcare Informatics (ICHI)
+  date: '2016-10-01'
+  link: https://doi.org/hbz8cp
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2016.26
+  title: 'Characteristics of Antimicrobial Stewardship Programs at Veterans Affairs
+    Hospitals: Results of a Nationwide Survey'
+  authors:
+  - Ann F. Chou
+  - Christopher J. Graber
+  - Makoto Jones
+  - Yue Zhang
+  - Matthew Bidwell Goetz
+  - Karl Madaras-Kelly
+  - Matthew Samore
+  - Allison Kelly
+  - Peter A. Glassman
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2016-02-24'
+  link: https://doi.org/f8ptz5
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AMEPRE.2015.10.016
+  title: Economic Analysis of Veterans Affairs Initiative to Prevent Methicillin-Resistant
+    Staphylococcus aureus Infections
+  authors:
+  - Richard E. Nelson
+  - Vanessa W. Stevens
+  - Karim Khader
+  - Makoto Jones
+  - Matthew H. Samore
+  - Martin E. Evans
+  - R. Douglas Scott
+  - Rachel B. Slayton
+  - Marin L. Schweizer
+  - Eli L. Perencevich
+  - Michael A. Rubin
+  publisher: American Journal of Preventive Medicine
+  date: '2016-05-01'
+  link: https://doi.org/gnwgxg
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4338/ACI-2015-12-RA-0182
+  title: Feasibility of population health analytics and data visualization for decision
+    support in the infectious diseases domain
+  authors:
+  - Guilherme Del Fiol
+  - Jorie Butler
+  - Yarden Livnat
+  - Jeanmarie Mayer
+  - Matthew Samore
+  - Makoto Jones
+  - Charlene Weir
+  - Don Roosan
+  publisher: Applied Clinical Informatics
+  date: '2016-04-01'
+  link: https://doi.org/gbjv4j
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7326/M15-1754
+  title: Importation, Antibiotics, and <i>Clostridium difficile</i> Infection in Veteran
+    Long-Term Care
+  authors:
+  - Kevin A. Brown
+  - Makoto Jones
+  - Nick Daneman
+  - Frederick R. Adler
+  - Vanessa Stevens
+  - Kevin E. Nechodom
+  - Matthew B. Goetz
+  - Matthew H. Samore
+  - Jeanmarie Mayer
+  publisher: Annals of Internal Medicine
+  date: '2016-06-21'
+  link: https://doi.org/f8tsc7
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S13756-016-0135-2
+  title: Regional variations in fluoroquinolone non-susceptibility among Escherichia
+    coli bloodstream infections within the Veterans Healthcare Administration
+  authors:
+  - Daniel J. Livorsi
+  - Michihiko Goto
+  - Margaret Carrel
+  - Makoto M. Jones
+  - Jennifer McDanel
+  - Rajeshwari Nair
+  - Bruce Alexander
+  - Brice Beck
+  - Kelly K. Richardson
+  - Eli N. Perencevich
+  publisher: Antimicrobial Resistance &amp; Infection Control
+  date: '2016-10-19'
+  link: https://doi.org/hbz8cq
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIW423
+  title: 'The Effect of a Nationwide Infection Control Program Expansion on Hospital-Onset
+    Gram-Negative Rod Bacteremia in 130 Veterans Health Administration Medical Centers:
+    An Interrupted Time-Series Analysis'
+  authors:
+  - Michihiko Goto
+  - Amy M. J. O'Shea
+  - Daniel J. Livorsi
+  - Jennifer S. McDanel
+  - Makoto M. Jones
+  - Kelly K. Richardson
+  - Brice F. Beck
+  - Bruce Alexander
+  - Martin E. Evans
+  - Gary A. Roselle
+  - Stephen M. Kralovic
+  - Eli N. Perencevich
+  publisher: Clinical Infectious Diseases
+  date: '2016-06-28'
+  link: https://doi.org/f85wf8
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2016.60
+  title: "Unique Risks and Clinical Outcomes Associated With Extended-Spectrum \u03B2\
+    -Lactamase <i>Enterobacteriaceae</i> in Veterans With Spinal Cord Injury or Disorder:\
+    \ A Case-Case-Control Study"
+  authors:
+  - Margaret A. Fitzpatrick
+  - Katie J. Suda
+  - Nasia Safdar
+  - Barry Goldstein
+  - Makoto M. Jones
+  - Linda Poggensee
+  - Swetha Ramanathan
+  - Ryan LeWan
+  - Charlesnika T. Evans
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2016-03-30'
+  link: https://doi.org/f8tk2h
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000390749601244
+  title: Variation In Detection And Coverage Of Resistant Pathogens In Hospitalized
+    Veterans With Pneumonia At 128 Medical Centers
+  authors: []
+  publisher: AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000390749601244
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJIC.2014.09.016
+  title: 'Collateral benefit of screening patients for methicillin-resistant Staphylococcus
+    aureus at hospital admission: Isolation of patients with multidrug-resistant gram-negative
+    bacteria'
+  authors:
+  - Makoto Jones
+  - Christopher Nielson
+  - Kalpana Gupta
+  - Karim Khader
+  - Martin Evans
+  publisher: American Journal of Infection Control
+  date: '2015-01-01'
+  link: https://doi.org/hbz8cr
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2015.231
+  title: 'Cumulative Attributable Difference: An Infection Metric That Reflects a
+    Value System'
+  authors:
+  - Makoto M. Jones
+  - Richard E. Nelson
+  - Michael A. Rubin
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2015-09-29'
+  link: https://doi.org/hbz8cs
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12879-015-0933-9
+  title: Description and validation of a spectrum score method to measure antimicrobial
+    de-escalation in healthcare associated pneumonia from electronic medical records
+    data
+  authors:
+  - Karl Madaras-Kelly
+  - Makoto Jones
+  - Richard Remington
+  - Christina Caplinger
+  - Benedikt Huttner
+  - Matthew Samore
+  publisher: BMC Infectious Diseases
+  date: '2015-04-25'
+  link: https://doi.org/gb32xv
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2015.132
+  title: 'Excess Length of Stay Attributable to <i>Clostridium difficile</i> Infection
+    (CDI) in the Acute Care Setting: A Multistate Model'
+  authors:
+  - Vanessa W. Stevens
+  - Karim Khader
+  - Richard E. Nelson
+  - Makoto Jones
+  - Michael A. Rubin
+  - Kevin A. Brown
+  - Martin E. Evans
+  - Tom Greene
+  - Eric Slade
+  - Matthew H. Samore
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2015-05-26'
+  link: https://doi.org/f7q4fk
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/978-1-61499-564-7-1035
+  title: Extraction of Vital Signs from Clinical Notes
+  authors:
+  - ' Patterson Olga V.'
+  - ' Jones Makoto'
+  - ' Yao Yiwen'
+  - ' Viernes Benjamin'
+  - ' Alba Patrick R.'
+  - ' Iwashyna Theodore J.'
+  - ' DuVall Scott L.'
+  publisher: Studies in Health Technology and Informatics
+  date: '2015-01-01'
+  link: https://doi.org/hbz8ct
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJIC.2014.09.014
+  title: "Health care\u2013associated methicillin-resistant Staphylococcus aureus\
+    \ infections increases the risk of postdischarge mortality"
+  authors:
+  - Richard E. Nelson
+  - Vanessa W. Stevens
+  - Makoto Jones
+  - Matthew H. Samore
+  - Michael A. Rubin
+  publisher: American Journal of Infection Control
+  date: '2015-01-01'
+  link: https://doi.org/hbz8cv
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAC/DKU388
+  title: Initiation and termination of antibiotic regimens in Veterans Affairs hospitals
+  authors:
+  - B. Huttner
+  - M. Jones
+  - K. Madaras-Kelly
+  - M. M. Neuhauser
+  - M. A. Rubin
+  - M. B. Goetz
+  - M. H. Samore
+  publisher: Journal of Antimicrobial Chemotherapy
+  date: '2014-10-06'
+  link: https://doi.org/f63wjf
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/MLR.0000000000000403
+  title: "Reducing Time-dependent Bias in Estimates of the Attributable Cost of Health\
+    \ Care\u2013associated Methicillin-resistant Staphylococcus aureus Infections"
+  authors:
+  - Richard E. Nelson
+  - Matthew H. Samore
+  - Makoto Jones
+  - Tom Greene
+  - Vanessa W. Stevens
+  - Chuan-Fen Liu
+  - Nicholas Graves
+  - Martin F. Evans
+  - Michael A. Rubin
+  publisher: Medical Care
+  date: '2015-09-01'
+  link: https://doi.org/f7qcv3
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ICE.2015.22
+  title: The Impact of Healthcare-Associated Methicillin-Resistant <i>Staphylococcus
+    Aureus</i> Infections on Post-Discharge Healthcare Costs and Utilization
+  authors:
+  - Richard E. Nelson
+  - Makoto Jones
+  - Chuan-Fen Liu
+  - Matthew H. Samore
+  - Martin E. Evans
+  - Nicholas Graves
+  - Bruce Lee
+  - Michael A. Rubin
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2015-02-26'
+  link: https://doi.org/f68bhp
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIV629
+  title: "Trends in Antibiotic Use and Nosocomial Pathogens in Hospitalized Veterans\
+    \ With Pneumonia at 128 Medical Centers, 2006\u20132010"
+  authors:
+  - Barbara E. Jones
+  - Makoto M. Jones
+  - Benedikt Huttner
+  - Gregory Stoddard
+  - Kevin Antoine Brown
+  - Vanessa W. Stevens
+  - Tom Greene
+  - Brian Sauer
+  - Karl Madaras-Kelly
+  - Michael Rubin
+  - Matthew Bidwell Goetz
+  - Matthew Samore
+  publisher: Clinical Infectious Diseases
+  date: '2015-07-29'
+  link: https://doi.org/f7t6ms
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12911-015-0221-Z
+  title: Understanding complex clinical reasoning in infectious diseases for improving
+    clinical decision support design
+  authors:
+  - Roosan Islam
+  - Charlene R. Weir
+  - Makoto Jones
+  - Guilherme Del Fiol
+  - Matthew H. Samore
+  publisher: BMC Medical Informatics and Decision Making
+  date: '2015-11-30'
+  link: https://doi.org/f72vh9
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7326/M14-1933
+  title: Variation in Outpatient Antibiotic Prescribing for Acute Respiratory Infections
+    in the Veteran Population
+  authors:
+  - Barbara Ellen Jones
+  - Brian Sauer
+  - Makoto M. Jones
+  - Jose Campo
+  - Kavitha Damal
+  - Tao He
+  - Jian Ying
+  - Tom Greene
+  - Matthew Bidwell Goetz
+  - Melinda M. Neuhauser
+  - Lauri A. Hicks
+  - Matthew H. Samore
+  publisher: Annals of Internal Medicine
+  date: '2015-07-21'
+  link: https://doi.org/f7kkgj
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/677633
+  title: 'Development of an Antibiotic Spectrum Score Based on Veterans Affairs Culture
+    and Susceptibility Data for the Purpose of Measuring Antibiotic De-Escalation:
+    A Modified Delphi Approach'
+  authors:
+  - Karl Madaras-Kelly
+  - Makoto Jones
+  - Richard Remington
+  - Nicole Hill
+  - Benedikt Huttner
+  - Matthew Samore
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2014-09-01'
+  link: https://doi.org/f6fjx4
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAC/DKU299
+  title: Does universal active MRSA surveillance influence anti-MRSA antibiotic use?
+    A retrospective analysis of the treatment of patients admitted with suspicion
+    of infection at Veterans Affairs Medical Centers between 2005 and 2010
+  authors:
+  - M. Jones
+  - B. Huttner
+  - M. Leecaster
+  - A. Huttner
+  - K. Damal
+  - W. Tanner
+  - C. Nielson
+  - M. A. Rubin
+  - M. B. Goetz
+  - K. Madaras-Kelly
+  - M. H. Samore
+  publisher: Journal of Antimicrobial Chemotherapy
+  date: '2014-08-06'
+  link: https://doi.org/g75mbn
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000209838204116
+  title: 'Going Big: Five Year Trends In Antibiotic Use For Hospitalized Pneumonia
+    Patients In National Va Data, 2006-2010'
+  authors: []
+  publisher: AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000209838204116
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CID/CIT668
+  title: 'Relationships Between the Importation, Transmission, and Nosocomial Infections
+    of Methicillin-Resistant Staphylococcus aureus: An Observational Study of 112
+    Veterans Affairs Medical Centers'
+  authors:
+  - M. Jones
+  - J. Ying
+  - B. Huttner
+  - M. Evans
+  - M. Maw
+  - C. Nielson
+  - M. A. Rubin
+  - T. Greene
+  - M. H. Samore
+  publisher: Clinical Infectious Diseases
+  date: '2013-10-02'
+  link: https://doi.org/f5m5s8
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000332404000004
+  title: 'Vital Signs: Improving Antibiotic Use Among Hospitalized Patients'
+  authors: []
+  publisher: MMWR-MORBIDITY AND MORTALITY WEEKLY REPORT
+  date: '2026-04-02'
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000332404000004
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0080671
+  title: A Simulation-Based Assessment of Strategies to Control Clostridium Difficile
+    Transmission and Infection
+  authors:
+  - Michael A. Rubin
+  - Makoto Jones
+  - Molly Leecaster
+  - Karim Khader
+  - Willy Ray
+  - Angela Huttner
+  - Benedikt Huttner
+  - Damon Toth
+  - Theodore Sablay
+  - Robert J. Borotkanics
+  - Dale N. Gerding
+  - Matthew H. Samore
+  publisher: PLoS ONE
+  date: '2013-11-21'
+  link: https://doi.org/ggsmnm
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAC/DKT171
+  title: Antibiotic prescription practices for pneumonia, skin and soft tissue infections
+    and urinary tract infections throughout the US Veterans Affairs system
+  authors:
+  - Benedikt Huttner
+  - Makoto Jones
+  - Angela Huttner
+  - Michael Rubin
+  - Matthew H. Samore
+  publisher: Journal of Antimicrobial Chemotherapy
+  date: '2013-05-16'
+  link: https://doi.org/gbd52d
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/670640
+  title: 'Unnecessary Antimicrobial Use in the Context of <i>Clostridium difficile</i>
+    Infection: A Call to Arms for the Veterans Affairs Antimicrobial Stewardship Task
+    Force'
+  authors:
+  - Christopher J. Graber
+  - Karl Madaras-Kelly
+  - Makoto M. Jones
+  - Melinda M. Neuhauser
+  - Matthew Bidwell Goetz
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2013-06-01'
+  link: https://doi.org/hbz8cw
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S40121-012-0001-3
+  title: Decolonization with Mupirocin and Subsequent Risk of Methicillin-Resistant
+    Staphylococcus aureus Carriage in Veterans Affairs Hospitals
+  authors:
+  - Richard E. Nelson
+  - Makoto Jones
+  - Michael A. Rubin
+  publisher: Infectious Diseases and Therapy
+  date: '2012-07-07'
+  link: https://doi.org/hbz8cx
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/JAC/DKS074
+  title: 'Double trouble: how big a problem is redundant anaerobic antibiotic coverage
+    in Veterans Affairs medical centres?'
+  authors:
+  - B. Huttner
+  - M. Jones
+  - M. A. Rubin
+  - K. Madaras-Kelly
+  - C. Nielson
+  - M. B. Goetz
+  - M. M. Neuhauser
+  - M. H. Samore
+  publisher: Journal of Antimicrobial Chemotherapy
+  date: '2012-03-07'
+  link: https://doi.org/f3zbks
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0036649
+  title: "Drugs of Last Resort? The Use of Polymyxins and Tigecycline at US Veterans\
+    \ Affairs Medical Centers, 2005\u20132010"
+  authors:
+  - Benedikt Huttner
+  - Makoto Jones
+  - Michael A. Rubin
+  - Melinda M. Neuhauser
+  - Adi Gundlapalli
+  - Matthew Samore
+  publisher: PLoS ONE
+  date: '2012-05-16'
+  link: https://doi.org/hbz8cz
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1472-6947-12-34
+  title: "Identification of methicillin-resistant Staphylococcus aureus within the\
+    \ Nation\u2019s Veterans Affairs Medical Centers using natural language processing"
+  authors:
+  - Makoto Jones
+  - Scott L DuVall
+  - Joshua Spuhl
+  - Matthew H Samore
+  - Christopher Nielson
+  - Michael Rubin
+  publisher: BMC Medical Informatics and Decision Making
+  date: '2012-04-25'
+  link: https://doi.org/gbbdf6
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJIC.2011.06.001
+  title: 'Long-term care facilities in Utah: A description of human and information
+    technology resources applied to infection control practice'
+  authors:
+  - Makoto Jones
+  - Matthew H. Samore
+  - Marjorie Carter
+  - Michael A. Rubin
+  publisher: American Journal of Infection Control
+  date: '2012-06-01'
+  link: https://doi.org/fjf8vw
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/664767
+  title: 'Parenteral to Oral Conversion of Fluoroquinolones: Low-Hanging Fruit for
+    Antimicrobial Stewardship Programs?'
+  authors:
+  - Makoto Jones
+  - Benedikt Huttner
+  - Karl Madaras-Kelly
+  - Kevin Nechodom
+  - Christopher Nielson
+  - Matthew Bidwell Goetz
+  - Melinda M. Neuhauser
+  - Matthew H. Samore
+  - Michael A. Rubin
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2012-04-01'
+  link: https://doi.org/gd59kv
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-10-S9-S12
+  title: Developing a manually annotated clinical document corpus to identify phenotypic
+    information for inflammatory bowel disease
+  authors:
+  - Brett R South
+  - Shuying Shen
+  - Makoto Jones
+  - Jennifer Garvin
+  - Matthew H Samore
+  - Wendy W Chapman
+  - Adi V Gundlapalli
+  publisher: BMC Bioinformatics
+  date: '2009-09-01'
+  link: https://doi.org/bd4dmm
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.HEALUN.2008.11.005
+  title: 'Tuberculosis in a Solid-organ Transplant Recipient: Modern-day Implications'
+  authors:
+  - Ayad Jazrawi
+  - Makoto Jones
+  - Abdallah G. Kfoury
+  - Patrick W. Fisher
+  - Edward M. Gilbert
+  - Feras Bader
+  - David Pombo
+  - Kim E. Hanson
+  - Josef Stehlik
+  publisher: The Journal of Heart and Lung Transplantation
+  date: '2009-02-01'
+  link: https://doi.org/b69hpz
+  orcid: 0000-0001-5580-6739
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s40615-025-02638-9
   title: Food Insecurity and Chronic Disease Among Native Hawaiians and Pacific Islanders
     on the Continent During COVID-19
@@ -1133,7 +3981,7 @@
   - Erin Clancey
   - Douglas R. Call
   - Eric Lofgren
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-03-31'
   link: https://doi.org/g9qkmb
   orcid: 0000-0003-2052-7240
@@ -1148,20 +3996,20 @@
   - Stephanie S. Johnson
   - Laila A. Reimanis
   - Eric T Lofgren
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-03-07'
   link: https://doi.org/g9qkmc
   orcid: 0000-0003-2052-7240
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.02.14.24302485
-  title: Healthcare Worker Staffing Ratios Affect Methicillin-Resistant<i>Staphylococcus
-    aureus</i>Acquisition
+  title: "Healthcare Worker Staffing Ratios Affect Methicillin-Resistant\n       \
+    \           <i>Staphylococcus aureus</i>\n                  Acquisition"
   authors:
   - Stephanie Sikavitsas Johnson
   - Matthew Steven Mietchen
   - Eric Thomas Lofgren
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-02-15'
   link: https://doi.org/g9qkmd
   orcid: 0000-0003-2052-7240
@@ -1174,7 +4022,7 @@
   - Stephanie S. Johnson
   - Katelin C. Jackson
   - Eric T. Lofgren
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-02-08'
   link: https://doi.org/g9qkmf
   orcid: 0000-0003-2052-7240
@@ -1187,7 +4035,7 @@
   - Matthew S. Mietchen
   - Corrin McMichael
   - Eric T. Lofgren
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-01-11'
   link: https://doi.org/gtszw3
   orcid: 0000-0003-2052-7240
@@ -1245,14 +4093,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.03.01.22271660
-  title: Examining the Impact of ICU Population Interaction Structure on Modeled Colonization
-    Dynamics of<i>Staphylococcus aureus</i>
+  title: "Examining the Impact of ICU Population Interaction Structure on Modeled\
+    \ Colonization Dynamics of\n                  <i>Staphylococcus aureus</i>"
   authors:
   - Matthew S. Mietchen
   - Christopher T. Short
   - Matthew Samore
   - Eric T. Lofgren
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-03-03'
   link: https://doi.org/g9qkmk
   orcid: 0000-0003-2052-7240
@@ -1267,7 +4115,7 @@
   - Elizabeth Dodds-Ashley
   - Rebekah W. Moehring
   - Eric T. Lofgren
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-02-24'
   link: https://doi.org/g9qkmm
   orcid: 0000-0003-2052-7240
@@ -1317,7 +4165,7 @@
   - Brooke Madubuonwu
   - Kellen Myers
   - Nina H. Fefferman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-04-14'
   link: https://doi.org/gtszwx
   orcid: 0000-0003-2052-7240
@@ -1592,7 +4440,7 @@
   - Rachel B. Slayton
   - Ian H. Spicknall
   - Damon J.A. Toth
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-05-14'
   link: https://doi.org/gtszww
   type: paper
