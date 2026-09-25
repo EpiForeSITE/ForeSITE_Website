@@ -10,7 +10,7 @@ proofer: false
 links:
   email: Matthew.Samore@hsc.utah.edu
   github: https://github.com/EpiForeSITE
-  twitter: EpiForeSITEDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  twitter: EpiForeSITE
 
 ### jekyll settings
 

@@ -2,6 +2,9 @@
 name: Matthew Samore
 image: images/Samore_Matt.jpg
 role: pi
+links:
+  orcid: 0000-0002-4862-9196
+  google-scholar: QOM1UpUAAAAJ
 ---
  
 Matthew Samore, MD is the Principal Investigator of both the Salt Lake VA Informatics Decision Enhancement and Surveillance (IDEAS) Center and the VA Consortium for Healthcare Informatics Research. He is a Professor of Medicine, Adjunct Professor of Biomedical Informatics, and Division Chief of Epidemiology at the University of Utah.

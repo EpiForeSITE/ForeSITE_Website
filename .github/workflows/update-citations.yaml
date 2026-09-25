@@ -20,7 +20,6 @@ permissions:
 
 env:
   FORCE_COLOR: true
-  GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
 
 jobs:
   update-citations:
@@ -52,8 +51,8 @@ jobs:
       - if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
-      - name: Build updated citations
-        run: python _cite/cite.py
+      - name: Build updated citations from InsightNet
+        run: python _cite/insightnet.py
         timeout-minutes: 15
 
       - name: Check if citations changed

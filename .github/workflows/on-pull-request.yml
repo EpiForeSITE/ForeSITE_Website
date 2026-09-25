@@ -1,22 +1,128 @@
 name: on-pull-request
 run-name: on pull request activity
 
+# Uses `pull_request` (not `pull_request_target`), so PRs from forks are
+# built with their own code but never get write access to this repo. The
+# post-artifact job works for every PR, including forks. The live-preview
+# job needs `contents: write` to push to gh-pages, so it only runs for
+# same-repo PRs.
+#
+# Note: PRs opened by the weekly citation-update job (using GITHUB_TOKEN)
+# don't trigger this workflow at all, so those PRs won't get a preview.
+# That's expected -- review the citation diff directly instead.
 on:
-  pull_request_target:
+  pull_request:
     types:
       - opened
       - reopened
       - synchronize
       - closed
 
-permissions:
-  contents: write
-  pull-requests: write
+env:
+  PREVIEWS_FOLDER: preview
 
 jobs:
-  update-citations:
-    uses: ./.github/workflows/update-citations.yaml
+  build:
+    if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
 
-  build-preview:
-    needs: update-citations
-    uses: ./.github/workflows/build-preview.yaml
+    steps:
+      - name: Checkout PR contents
+        uses: actions/checkout@v4
+
+      - name: Install Ruby packages
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
+
+      - name: Get Pages url
+        id: pages
+        uses: actions/configure-pages@v4
+
+      # Jekyll writes root-absolute links (/<baseurl>/...), so each copy has
+      # to be built for the path it will be served from.
+
+      # downloadable copy: served from the root by a local web server
+      - name: Build downloadable version of site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl "" --destination _site_download
+
+      - name: Upload downloadable site as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site_download
+          retention-days: 14
+
+      # live copy: served from gh-pages under /preview/pr-N/
+      - name: Build live preview version of site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
+
+      - name: Upload live preview site as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-live-preview
+          path: _site
+          retention-days: 1
+
+  post-artifact:
+    needs: build
+    if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      pull-requests: write
+
+    steps:
+      - name: Post link to built site artifact
+        uses: CDCgov/cfa-actions/post-artifact@v1.7.0
+        with:
+          artifact-name: site-preview
+          gh-token: ${{ secrets.GITHUB_TOKEN }}
+          message: |
+            Thanks for the PR, @${{ github.actor }}! The built site is ready for download :point_right: [here]({ artifact-url }) :point_left:
+
+            Opening `index.html` directly from disk won't load styles or images. Unzip it and serve the folder instead:
+
+            ```bash
+            python3 -m http.server --directory site-preview 8000
+            ```
+
+            then open http://localhost:8000. If a live preview link is posted below, you can use that instead.
+
+  live-preview:
+    needs: build
+    # `build` is skipped when the PR is closed (nothing to build), so this
+    # job's own condition must not simply inherit that skip; run whenever
+    # `build` succeeded, or the PR was just closed (to remove the preview).
+    # Only for PRs from this repo: pushing to gh-pages needs write access,
+    # which forked PRs don't get.
+    if: |
+      always() &&
+      (needs.build.result == 'success' || github.event.action == 'closed') &&
+      github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout branch contents
+        uses: actions/checkout@v4
+
+      - name: Download built site artifact
+        if: github.event.action != 'closed'
+        uses: actions/download-artifact@v8
+        with:
+          name: site-live-preview
+          path: _site
+
+      - name: Deploy or remove live preview
+        uses: rossjrw/pr-preview-action@v1.8.1
+        with:
+          source-dir: _site
+          umbrella-dir: ${{ env.PREVIEWS_FOLDER }}

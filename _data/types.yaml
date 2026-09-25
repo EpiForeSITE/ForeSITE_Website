@@ -20,7 +20,7 @@ phd:
 
 econ:
   icon: fa-solid fa-money-bill-trend-up
-  description: 
+  description: Economic Impact Analysis
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -40,23 +40,35 @@ member:
 
 mod:
   icon: fa-solid fa-chart-line
-  description: 
+  description: Analytical Modeling
 
 stedi:
   icon: fa-solid fa-user-group
-  description: 
+  description: Sociotechnical System Evaluation, Design & Implementation
 
 pm:
   icon: fa-solid fa-check-square
-  description: 
+  description: Project Management
 
 sme:
   icon: fa-solid fa-disease
-  description:   
+  description: Subject Matter Expert, Responding to Disease Emergencies
 
 comp:
   icon: fa-solid fa-desktop
-  description: 
+  description: Computational & Visual Analytics
+
+state:
+  icon: fa-solid fa-landmark
+  description: State Public Health Partner
+
+local:
+  icon: fa-solid fa-city
+  description: Local Public Health Partner
+
+hcs:
+  icon: fa-solid fa-hospital
+  description: Healthcare System Partner
 
 # general
 
@@ -151,6 +163,12 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
+
+bluesky:
+  icon: fa-brands fa-bluesky
+  text: Bluesky
+  tooltip: Bluesky
+  link: $VALUE
 
 # alerts
 
