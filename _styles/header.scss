@@ -24,14 +24,18 @@ header {
   }
 }
 
-// ForeSITE brand bar: crimson-to-gold gradient strip along the top edge
-header::before {
+// ForeSITE brand bar: crimson-to-gold gradient strip along the top edge.
+// Uses ::after (not ::before) because header also has class="background",
+// and .background:before (background.scss) already claims that
+// pseudo-element for the decorative header-image overlay.
+header::after {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   height: 5px;
+  z-index: 2;
   background: linear-gradient(
     90deg,
     var(--primary) 0%,
