@@ -12,13 +12,14 @@ header {
   z-index: 10 !important;
 }
 
-header::before {
+header::after {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   height: 5px;
+  z-index: 2;
   background: linear-gradient(90deg, var(--primary) 0%, var(--primary) 45%, var(--secondary) 100%);
 }
 
