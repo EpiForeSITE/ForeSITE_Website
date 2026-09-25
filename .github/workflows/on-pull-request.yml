@@ -42,16 +42,32 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Build preview version of site
-        run: |
-          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
+      # Jekyll writes root-absolute links (/<baseurl>/...), so each copy has
+      # to be built for the path it will be served from.
 
-      - name: Upload built site as artifact
+      # downloadable copy: served from the root by a local web server
+      - name: Build downloadable version of site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl "" --destination _site_download
+
+      - name: Upload downloadable site as artifact
         uses: actions/upload-artifact@v4
         with:
           name: site-preview
-          path: _site
+          path: _site_download
           retention-days: 14
+
+      # live copy: served from gh-pages under /preview/pr-N/
+      - name: Build live preview version of site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
+
+      - name: Upload live preview site as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-live-preview
+          path: _site
+          retention-days: 1
 
   post-artifact:
     needs: build
@@ -67,11 +83,16 @@ jobs:
         with:
           artifact-name: site-preview
           gh-token: ${{ secrets.GITHUB_TOKEN }}
-          message: >-
-            Thanks for the PR, @${{ github.actor }}! The built site is ready
-            for download :point_right: [here]({ artifact-url }) :point_left:
-            -- unzip it and open `index.html`. If a live preview link is
-            posted below, you can use that instead.
+          message: |
+            Thanks for the PR, @${{ github.actor }}! The built site is ready for download :point_right: [here]({ artifact-url }) :point_left:
+
+            Opening `index.html` directly from disk won't load styles or images. Unzip it and serve the folder instead:
+
+            ```bash
+            python3 -m http.server --directory site-preview 8000
+            ```
+
+            then open http://localhost:8000. If a live preview link is posted below, you can use that instead.
 
   live-preview:
     needs: build
@@ -97,7 +118,7 @@ jobs:
         if: github.event.action != 'closed'
         uses: actions/download-artifact@v8
         with:
-          name: site-preview
+          name: site-live-preview
           path: _site
 
       - name: Deploy or remove live preview
