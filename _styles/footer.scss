@@ -12,6 +12,16 @@ footer {
   box-shadow: var(--shadow);
 }
 
+// footer is always the ForeSITE brand gray, regardless of light/dark mode
+footer.background[data-dark="true"] {
+  --background: #4e4e4e;
+  --text: #ffffff;
+}
+
+.footer-logo {
+  height: 32px;
+}
+
 footer a {
   color: var(--text) !important;
 }

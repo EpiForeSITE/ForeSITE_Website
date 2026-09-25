@@ -14,6 +14,7 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
+  padding-top: 25px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -21,6 +22,22 @@ header {
     top: 0;
     z-index: 10 !important;
   }
+}
+
+// ForeSITE brand bar: crimson-to-gold gradient strip along the top edge
+header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: linear-gradient(
+    90deg,
+    var(--primary) 0%,
+    var(--primary) 45%,
+    var(--secondary) 100%
+  );
 }
 
 header a {

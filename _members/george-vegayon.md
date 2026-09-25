@@ -5,6 +5,9 @@ role: comp
 links:
   orcid: 0000-0002-3171-0844
   home-page: https://ggvy.cl
+  google-scholar: 34E1yTAAAAAJ
+  linkedin: georgevegayon
+  bluesky: https://bsky.app/profile/gvegayon.bsky.social
 ---
  
 I am an Assistant Professor of Research at the [Division of Epidemiology at the University of Utah](https://medicine.utah.edu/internalmedicine/epidemiology/). I work on studying [Complex Systems](https://cssociety.org/about-us/what-are-cs) using
